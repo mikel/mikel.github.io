@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Home
+title: Mikel Lindsaar
 ---
 
-Please enjoy your stay.
+Orientation:
 
 * [Work](/work)
 * [About](/about)
