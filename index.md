@@ -5,9 +5,9 @@ title: Home
 
 Please enjoy your stay.
 
-* [work](/work)
-* [Contact](/contact)
+* [Work](/work)
 * [About](/about)
+* [Contact](/contact)
 
 Recent posts:
 
