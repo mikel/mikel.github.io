@@ -1,0 +1,7 @@
+{
+  "clean_urls": true,
+  "root": "_site/",
+  "https_only": true,
+  "canonical_host": "www.lindsaar.net",
+  "error_page": "404.html"
+}

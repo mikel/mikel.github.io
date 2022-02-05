@@ -1,0 +1,18 @@
+<p class="{{ include.class }}">
+  <a href="{{ include.link }}">
+    <img src="{{ include.file }}"
+    {% if include.title %}
+    alt="{{ include.alt }}"
+    {% endif %}
+    {% if include.title %}
+    title="{{ include.title }}"
+    {% endif %}
+    {% if include.width %}
+    width="{{ include.width }}"
+    {% endif %}
+    {% if include.height %}
+    height="{{ include.height }}"
+    {% endif %}
+    />
+  </a>
+</p>

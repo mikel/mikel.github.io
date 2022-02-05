@@ -1,0 +1,60 @@
+# Configurations
+title:            Mikel Lindsaar
+longtitle:        Mikel Lindsaar website
+author:           Mikel Lindsaar
+email:            mikel@lindsar.net
+description: >
+  The musings of Mikel Lindsaar
+
+version:          1.0
+gitbook_version:  3.2.3
+
+url:              'https://www.lindsaar.net'
+rss:              RSS
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+# markdown render engine.
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
+
+syntax_highlighter_style: colorful
+
+markdown_ext:     markdown,mkdown,mkdn,mkd,md
+
+permalink: /:collection/:year-:month-:day-:title
+
+exclude:
+  - _drafts
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  archive:
+    output: true
+    index: false
+    permalink: /:year-:month-:day-:title
+  posts:
+    output: true
+    index: true
+
+destination:      ./_site
+incremental:      false
+regenerate:       true
+
+plugins:
+  - jekyll-feed
+  - jemoji
+  - jekyll-redirect-from
