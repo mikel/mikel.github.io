@@ -7,7 +7,7 @@ redirect_from:
   - /2008/6/29/examples-of-behaviour-spec-n
 ---
 In my previous post ([Spec Behaviour not
-Implementation](http://lindsaar.net/2008/6/28/tip-27-spec-a-behaviour-not-an-implementation))
+Implementation](https://lindsaar.net/2008/6/28/tip-27-spec-a-behaviour-not-an-implementation))
 I went on a froth roll about why you should treat controller actions as
 black boxes. Here I give an all to common example of why this is good
 and how you *can* write specs that won't break at the most trivial
@@ -110,7 +110,7 @@ time, but I think this whole thing of mock everything in the controllers
 to make the specs go faster is over rated.
 
 I work in a development team. We user [factory
-objects](http://lindsaar.net/2008/5/12/tip-16-valid-models-don-t-have-to-be-hard)
+objects](https://lindsaar.net/2008/5/12/tip-16-valid-models-don-t-have-to-be-hard)
 and real objects when we can get away with it. And our specs run slower.
 On an app that is about 50% done we have 1500 specs passing, and it
 takes about 70 seconds to run them. Not too bad. About half of them use

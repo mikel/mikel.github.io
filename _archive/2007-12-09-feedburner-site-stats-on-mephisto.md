@@ -29,7 +29,7 @@ So the code becomes:
 
 ``` html
 <script src="http://feeds.feedburner.com/~s/lindsaar-net?%\
-i=http://lindsaar.net{{ article.url }}"
+i=https://lindsaar.net{{ article.url }}"
 type="text/javascript" charset="utf-8">
 </script>
 ```

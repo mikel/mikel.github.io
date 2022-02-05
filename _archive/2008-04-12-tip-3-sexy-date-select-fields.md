@@ -10,7 +10,7 @@ Tired of having 5 different pick lists or spinners to set a date on your
 form? Me too, that's why calendar_date_select was made, and it's soo
 easy to install...
 
-![](http://lindsaar.net/assets/2008/4/13/screenshot_1_8_0.jpg)
+![](https://lindsaar.net/assets/2008/4/13/screenshot_1_8_0.jpg)
 
 Besides, doesn't this select box look much better and more user friendly
 than entering e-v-e-r-y - s-i-n-g-l-e - b-i-t - o-f - t-h-e - d-a-t-e??

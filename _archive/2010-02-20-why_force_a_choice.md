@@ -39,7 +39,7 @@ entitled "Django Installation Reference for the Experienced Developer"
 then fine, but it isn't.
 
 This reminds me of a saying from my [philosophy of
-choice](http://lindsaar.net/about_mikel), "To decide, one must first
+choice](https://lindsaar.net/about_mikel), "To decide, one must first
 understand", and this holds very true in all of our web development
 circles, not just programming and installation guides.
 

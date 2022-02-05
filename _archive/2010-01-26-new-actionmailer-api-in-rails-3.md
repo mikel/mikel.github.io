@@ -15,11 +15,11 @@ Action Mailer now has a new API.
 But why? Well, I had an itch to scratch, I am the maintainer for TMail,
 but found it very hard to use well, so I sat down and wrote a really
 Ruby Mail library, called, imaginatively enough,
-[Mail](http://lindsaar.net/2010/1/23/mail-gem-version-2-released)
+[Mail](https://lindsaar.net/2010/1/23/mail-gem-version-2-released)
 
 But Action Mailer was still using TMail, so then I replaced out [TMail
 with Mail in Action
-Mailer](http://lindsaar.net/2009/12/30/mail-in-actionmailer)
+Mailer](https://lindsaar.net/2009/12/30/mail-in-actionmailer)
 
 And now, with all the flexibility that Mail gives us, we all thought it
 would be a good idea to re-write the Action Mailer DSL. So with a lot of

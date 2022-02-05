@@ -100,7 +100,7 @@ And all should be good.
 #### Download It!
 
 You can download [Field Monitor
-here.](http://lindsaar.net/assets/field_monitor.zip)
+here.](https://lindsaar.net/assets/field_monitor.zip)
 
 Let me know if you find it useful!
 

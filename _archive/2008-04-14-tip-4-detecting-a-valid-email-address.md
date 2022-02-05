@@ -15,7 +15,7 @@ it gives you a great way to validate email addresses...
 
 Rails 3.0 uses Mail now instead of TMail, here is another simple way to
 [validate an
-email](http://lindsaar.net/2010/1/31/validates_rails_3_awesome_is_true).
+email](https://lindsaar.net/2010/1/31/validates_rails_3_awesome_is_true).
 
 ### Original Post:
 

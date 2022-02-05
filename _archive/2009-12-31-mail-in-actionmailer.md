@@ -13,7 +13,7 @@ Today, my fork of rails was
 [merged](http://github.com/rails/rails/commit/71ffa760701d2240ece5f17b75df316611ecb3d0)
 back into the rails master code branch. This removes
 [TMail](http://tmail.rubyforge.org) from ActionMailer and replaces it
-with my [Mail](http://www.lindsaar.net/2009/10/28/new-mail-gem-released)
+with my [Mail](https://lindsaar.net/2009/10/28/new-mail-gem-released)
 gem.
 
 This means that Rails 3.0 will be using Mail inside of ActionMailer

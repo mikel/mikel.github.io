@@ -15,7 +15,7 @@ difference between a GET and POST request and when you use either, then
 you need to read on. If you can, feel free to skip to the next section.
 
 This is part of my 8-Part tip-a-thon on the [Must Know Facets of Ruby on
-Rails](http://www.lindsaar.net/2008/4/17/tip-8-how-learn-ruby-on-rails).
+Rails](https://lindsaar.net/2008/4/17/tip-8-how-learn-ruby-on-rails).
 If you haven't already, please read the first part and then come forward
 (there is a link at the bottom of each article that links to the next)
 

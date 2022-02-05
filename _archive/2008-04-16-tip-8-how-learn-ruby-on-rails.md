@@ -71,7 +71,7 @@ build a strong foundation for you to expand your knowledge overall.
 I am going to do a series of posts that walk through the top 8 layers
 above. The first one I have already posted and it is called [Learn
 Programming
-Theory](http://www.lindsaar.net/2008/4/17/tip-9-learn-programming-theory)
+Theory](https://lindsaar.net/2008/4/17/tip-9-learn-programming-theory)
 
 blogLater
 

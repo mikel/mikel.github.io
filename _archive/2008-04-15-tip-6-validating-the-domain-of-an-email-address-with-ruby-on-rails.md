@@ -39,7 +39,7 @@ Anyway, enough talk, lets see the code.
 
 First we need to set up the validation, so I am going to assume you are
 using the email validation from [Tip
-#4](http://lindsaar.net/2008/4/14/tip-4-detecting-a-valid-email-address)
+#4](https://lindsaar.net/2008/4/14/tip-4-detecting-a-valid-email-address)
 and so I am just going to add to it:
 
 ``` ruby

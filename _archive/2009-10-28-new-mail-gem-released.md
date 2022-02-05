@@ -21,7 +21,7 @@ Let [me know](http://github.com/mikel/mail/issues) how it runs!
 
 In a short two months, we are up to about 1600+ downloads on gemcutter,
 version 1.3 of Mail and a bunch of [positive
-comments](http://www.lindsaar.net/2009/11/1/mail-gets-some-compliments)
+comments](https://lindsaar.net/2009/11/1/mail-gets-some-compliments)
 
 So dive in with a "gem install mail", you can find the README on how to
 do all the basic stuff on GitHub.

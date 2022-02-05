@@ -2,6 +2,6 @@
   "clean_urls": true,
   "root": "_site/",
   "https_only": true,
-  "canonical_host": "www.lindsaar.net",
+  "canonical_host": "lindsaar.net",
   "error_page": "404.html"
 }

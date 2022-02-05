@@ -12,7 +12,7 @@ going to make sure that all those users enter a sane and well formatted
 email address? Here is a simple fix to that problem.
 
 If you read the [previous
-tip](http://lindsaar.net/2008/4/14/tip-4-detecting-a-valid-email-address)
+tip](https://lindsaar.net/2008/4/14/tip-4-detecting-a-valid-email-address)
 then you would have setup some basic validation of the format of your
 email address.
 

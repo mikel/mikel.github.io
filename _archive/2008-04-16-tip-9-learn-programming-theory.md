@@ -10,7 +10,7 @@ Being a Rails developer means that, yes, you too need to learn how to
 (**gasp**) program! No, seriously! Here are my tips on that subject.
 
 This is part of my 8-Part tip-a-thon on the [Must Know Facets of Ruby on
-Rails](http://www.lindsaar.net/2008/4/17/tip-8-how-learn-ruby-on-rails).
+Rails](https://lindsaar.net/2008/4/17/tip-8-how-learn-ruby-on-rails).
 If you haven't already, please read the first part and then come forward
 (there is a link at the bottom of the previous link to this article)
 
@@ -73,7 +73,7 @@ need to exercise your programming mental powers to think about problems
 differently or to expand your ideas and ability to think.
 
 Next step, [The Ruby
-Language](http://lindsaar.net/2008/4/18/tip-10-the-ruby-language)
+Language](https://lindsaar.net/2008/4/18/tip-10-the-ruby-language)
 
 blogLater
 

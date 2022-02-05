@@ -11,7 +11,7 @@ Ruby at the same time. Here I go over some of the must knows in Ruby so
 that you get some basic understanding of how to do Rails.
 
 This is part of my 8-Part tip-a-thon on the [Must Know Facets of Ruby on
-Rails](http://www.lindsaar.net/2008/4/17/tip-8-how-learn-ruby-on-rails).
+Rails](https://lindsaar.net/2008/4/17/tip-8-how-learn-ruby-on-rails).
 If you haven't already, please read the first part and then come forward
 (there is a link at the bottom of each article that links to the next)
 
@@ -92,7 +92,7 @@ understand Rails a lot more.
 ##### Next Up
 
 Next in the series is the [HTML and HTTP are Your
-Friends](http://lindsaar.net/2008/4/21/tip-12-html-and-http-are-your-friends)
+Friends](https://lindsaar.net/2008/4/21/tip-12-html-and-http-are-your-friends)
 
 blogLater
 

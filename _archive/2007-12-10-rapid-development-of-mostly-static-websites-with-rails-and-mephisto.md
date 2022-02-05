@@ -41,7 +41,7 @@ of work, using Mephisto.
 
 #### Stage One: Design and Planning
 
-![](http://lindsaar.net/assets/2007/12/9/initial.jpg)
+![](https://lindsaar.net/assets/2007/12/9/initial.jpg)
 
 It amazes me how many people dive into stuff without sort of figuring
 out what is going on. So, first step in making a basic site like this is
@@ -63,7 +63,7 @@ this site as it is meant to be that way.
 I cleaned up some of the layout and images - sliced and diced it up and
 turned it in this:
 
-![](http://lindsaar.net/assets/2007/12/8/drugfacts_1.jpg):http://www.drugfacts.org.au/
+![](https://lindsaar.net/assets/2007/12/8/drugfacts_1.jpg):http://www.drugfacts.org.au/
 
 Now I had my basic design in place, and knew what each sub page
 (section) was going to be called, I went to Mephisto.

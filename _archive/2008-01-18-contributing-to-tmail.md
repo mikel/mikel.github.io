@@ -14,7 +14,7 @@ http://tmail.rubyforge.org/contributing/ and follow the dots. Soon you
 will be disco dancing with the best.
 
 If you haven't read my [Are you a real
-programmer?](http://lindsaar.net/2007/12/5/are-you-a-real-programmer)
+programmer?](https://lindsaar.net/2007/12/5/are-you-a-real-programmer)
 post, then maybe you should...
 
 Seriously though, this is an important leap for anyone who is into open

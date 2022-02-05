@@ -12,10 +12,10 @@ gem](http://github.com/mikel/mail) but I just pushed 2.0.3 to GemCutter,
 it is quite a release!
 
 If you haven't heard of mail, you can get some background
-[here](http://lindsaar.net/2009/9/17/mail-tmail-the-future-of-ruby-email-handling),
-[here](http://lindsaar.net/2009/9/18/mail-and-bounced-emails),
-[here](http://lindsaar.net/2009/10/28/new-mail-gem-released) and
-[here](http://lindsaar.net/2009/11/1/mail-gets-some-compliments)
+[here](https://lindsaar.net/2009/9/17/mail-tmail-the-future-of-ruby-email-handling),
+[here](https://lindsaar.net/2009/9/18/mail-and-bounced-emails),
+[here](https://lindsaar.net/2009/10/28/new-mail-gem-released) and
+[here](https://lindsaar.net/2009/11/1/mail-gets-some-compliments)
 
 Mail is a very Ruby way to handle emails.
 

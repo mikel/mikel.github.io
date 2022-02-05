@@ -14,7 +14,7 @@ But I just couldn't resist. It is such a great computer, and only
 
 Check it out!
 
-![](http://lindsaar.net/assets/2008/4/17/apple_i.png)
+![](https://lindsaar.net/assets/2008/4/17/apple_i.png)
 
 blogLater
 

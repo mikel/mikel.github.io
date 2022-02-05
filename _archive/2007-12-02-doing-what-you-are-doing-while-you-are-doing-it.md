@@ -15,7 +15,7 @@ I use a simple phrase "Doing what you are doing while you are doing it".
 It actually, could be stated as another definition for Happiness. But I
 digress.
 
-![](http://lindsaar.net/assets/2007/12/3/gina-cartoon.jpg)
+![](https://lindsaar.net/assets/2007/12/3/gina-cartoon.jpg)
 
 I was reading [Matt
 Allen's](http://blog.allen.com.au/2007/10/17/going-dark) blog about

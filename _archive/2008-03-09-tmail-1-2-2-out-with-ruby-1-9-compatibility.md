@@ -42,9 +42,9 @@ work by documenting it, than I ever would have by using it.
 Anyway, there it is, 1.2.2, hope you enjoy it.
 
 As always, if you find a bug, you can [do something about
-it](http://lindsaar.net/2007/12/5/are-you-a-real-programmer) and
+it](https://lindsaar.net/2007/12/5/are-you-a-real-programmer) and
 [contribute a
-patch](http://lindsaar.net/2008/1/19/contributing-to-tmail), or simply
+patch](https://lindsaar.net/2008/1/19/contributing-to-tmail), or simply
 [let us know](http://rubyforge.org/tracker/?group_id=4512).
 
 blogLater

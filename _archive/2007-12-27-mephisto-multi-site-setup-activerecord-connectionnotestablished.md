@@ -16,7 +16,7 @@ ActiveRecord::ConnectionNotEstablished error.
 
 This is excerpted from my [Rapid Development of Mostly Static Websites
 with Rails and
-Mephisto](http://lindsaar.net/2007/12/10/rapid-development-of-mostly-static-websites-with-rails-and-mephisto)
+Mephisto](https://lindsaar.net/2007/12/10/rapid-development-of-mostly-static-websites-with-rails-and-mephisto)
 blog, I had a comment that this was a problem for someone else, so I
 thought I would make it easier to find.
 

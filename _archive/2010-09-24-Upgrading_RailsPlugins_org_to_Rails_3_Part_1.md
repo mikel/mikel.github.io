@@ -99,12 +99,12 @@ More information: http://weblog.rubyonrails.org/
 
 Deprecated ActionMailer API
 You're using the old ActionMailer API to send e-mails in a controller, model, or observer.
-More information: http://lindsaar.net/2010/1/26/new-actionmailer-api-in-rails-3
+More information: https://lindsaar.net/2010/1/26/new-actionmailer-api-in-rails-3
 ...
 
 Old ActionMailer class API
 You're using the old API in a mailer class.
-More information: http://lindsaar.net/2010/1/26/new-actionmailer-api-in-rails-3
+More information: https://lindsaar.net/2010/1/26/new-actionmailer-api-in-rails-3
 ...
 
 Soon-to-be-deprecated ActiveRecord calls
