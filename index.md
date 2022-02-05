@@ -5,7 +5,7 @@ title: Home
 
 Please enjoy your stay.
 
-* My [work](/work)
+* [work](/work)
 * [Contact](/contact)
 * [About](/about)
 
