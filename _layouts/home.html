@@ -7,7 +7,7 @@
         {% assign all_posts = site.posts %}
 
         {% if all_posts %}
-            <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
+            <link rel="next" href="{{site.baseurl}}{{all_posts.first.url}}" />
         {% endif %}
     </head>
     <body>
