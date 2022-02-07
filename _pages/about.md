@@ -23,6 +23,8 @@ So I went and become a full time volunteer with the Church of Scientology helpin
 
 After a decade of volunteering, I returned to the work force and started reinteractive and what would eventually become MetaPulse.  I spent the next 10 years growing reinteractive and MetaPulse as well as starting and exiting four other companies.
 
+While building these companies, I also created the [Ruby Mail gem](https://rubygems.org/gems/mail) and helped modify the Rails ActionMailer library to use Mail as it's email library, this gained me an invitation to become [Australia's first member of the Ruby on Rails commit team](/archive/2010-09-10-rails-commit-access), of which I am now an Alumni.
+
 I also got married to an incredible lady and have been blessed with the most wonderful daughter.
 
 I now keep myself busy with my family, [my work](/work) and my incredible staff and clients.

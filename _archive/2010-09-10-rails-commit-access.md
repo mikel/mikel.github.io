@@ -19,7 +19,7 @@ now has a local who has commit access to the [Rails Organisation
 repositories](http://github.com/rails)
 
 Mostly, this was due to my work with the [Action Mailer
-3](http://contributors.rubyonrails.org/contributors/mikel-lindsaar/commits)
+3](https://contributors.rubyonrails.org/contributors/mikel-lindsaar/commits)
 updates with Mail, but I plan to extend this to other areas like Active
 Resource.
 
@@ -28,7 +28,7 @@ all Rubyists, especially those in Australia, for a long time!
 
 So you will be seeing me a lot more in the commit logs from me and I'll
 definitely be helping out on Rails in between my consulting work as the
-founder of [RubyX](http://rubyx.com/)
+founder of [reinteractive](https://reinteractive.com/)
 
 blogLater
 
