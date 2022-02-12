@@ -19,7 +19,7 @@ I knew from a very early age that the world was going to be connected and I was 
 
 University couldn't keep me interested and I dropped out with a year to go and started persuing my own goals, 5 years of working in the IT industry, building a highly successful ISP from the ground up, helping form the Victorian Internet Exchange and learning everything I could about everything I could left me unfullfilled.
 
-So I went and become a full time volunteer with the Church of Scientology helping people from around the world solve personal problems and life crippling issues.
+So I went and become a full time volunteer with the [Church of Scientology](https://www.scientology.org/) helping people from around the world with [solutions for personal problems and life crippling issues](https://www.volunteerministers.org/).
 
 After a decade of volunteering, I returned to the work force and started reinteractive and what would eventually become MetaPulse.  I spent the next 10 years growing reinteractive and MetaPulse as well as starting and exiting four other companies.
 
