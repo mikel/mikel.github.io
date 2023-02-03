@@ -21,7 +21,9 @@ University couldn't keep me interested and I dropped out with a year to go and s
 
 So I went and become a full time volunteer with the [Church of Scientology](https://www.scientology.org/) helping people from around the world with [solutions for personal problems and life crippling issues](https://www.volunteerministers.org/).
 
-After a decade of volunteering, I returned to the work force and started reinteractive and what would eventually become MetaPulse.  I spent the next 10 years growing reinteractive and MetaPulse as well as starting and exiting four other companies.
+After a decade of volunteering, I returned to the work force and started [reinteractive](https://reinteractive.com) and also [MetaPulse](https://metapulse.com).  I spent the next 10 years growing reinteractive and MetaPulse as well as starting and exiting four other SaaS companies, the largest of which was selling Flood.IO to Tricentis.
+
+In 2017 I started [StoreConnect](https://getstoreconnect.com/) and am growing this to help Small to Medium businesses everywhere scale their online, eCommerce and POS solutions on Salesforce.
 
 While building these companies, I also created the [Ruby Mail gem](https://rubygems.org/gems/mail) and helped modify the Rails ActionMailer library to use Mail as it's email library, this gained me an invitation to become [Australia's first member of the Ruby on Rails commit team](/archive/2010-09-10-rails-commit-access), of which I am now an Alumni.
 
