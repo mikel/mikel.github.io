@@ -5,6 +5,7 @@ title: Mikel Lindsaar
 
 Orientation:
 
+* [Books](/books)
 * [Work](/work)
 * [About](/about)
 * [Contact](/contact)
