@@ -49,6 +49,9 @@ collections:
   posts:
     output: true
     index: true
+  interviews:
+    output: true
+    index: true
 
 destination:      ./_site
 incremental:      false

@@ -10,6 +10,10 @@ Orientation:
 * [About](/about)
 * [Contact](/contact)
 
+Podcast Interviews:
+
+* [How serial entrepreneur grows a productive team](https://open.spotify.com/episode/7qfwsFjIVMIYNJcmnDaEd2)
+
 Posts:
 
 * [The Axioms of Software Development](/posts/2021-03-06-The-Axioms-of-Software-Development)
@@ -18,4 +22,7 @@ Posts:
 * [This Relationship is Worth Nothing](/posts/2010-06-13-this-relationship-is-worth-nothing)
 * [Thank YOU...](/posts/2010-06-11-thank-YOU)
 
+TV Interviews:
 
+* [CGTN America](/interviews/cgtn-2024-01-23)
+* [WTVM 70](/interviews/wtvm-70-2024-01-30)
