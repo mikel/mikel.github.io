@@ -14,11 +14,13 @@ I'm a programmer who loves Ruby and created the [Ruby Mail Gem](https://rubygems
 
 {% include linked_image.html link="https://getstoreconnect.com/" file="/assets/images/StoreConnect-logo.png" title="StoreConnect logo" alt="Image of the StoreConnect logo" height="80px" %}
 
-I started StoreConnect in late 2017 after realizing that a powerful, out of the box, simple eCommerce system on top of Salesforce would provide a compelling solution for the massive Small to Medium business market.
+I started StoreConnect in late 2017 after realizing that a powerful, out of the box, Customer Commerce platform on top of Salesforce would provide a compelling solution for anyone trying to implement complex commmerce solutions, including Online, over the phone and Point of Sale solutions.
 
-**StoreConnect is Time. Well Spent.**  It saves our clients valuable time spent wrangling with separate systems and instead centralizes all eCommerce, Marketing, Sales, Service, Ordering, Point of Sale and process management into a single dashboard using Salesforce.
+**StoreConnect is this solution.**  It saves our clients valuable time spent wrangling with separate systems and instead centralizes all eCommerce, Marketing, Sales, Service, Ordering, Point of Sale and process management into a single dashboard using Salesforce.
 
 StoreConnect won the 2021 [International Salesforce Innovation Award for Retail](https://getstoreconnect.com/articles/storeconnect-partner-innovation-award) and is continuing to grow with a strong and passionate client base in a wide range of industries.
+
+It has raised over $13m USD in funding since 2023 to take on the complex commerce market and deliver real scalable solutions to businesses big and small.
 
 <hr>
 
