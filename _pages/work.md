@@ -40,7 +40,7 @@ reinteractive was founded in 2010 as a Ruby on Rails focused design, development
 
 <hr>
 
-{% include linked_image.html link="https://flood.io/" file="/assets/images/floodio-logo.png" title="Flood.IO logo" alt="Image of the Flood.IO logo" height="80px" class="center-block" %}
+{% include image.html file="/assets/images/floodio-logo.png" title="Flood.IO logo" alt="Image of the Flood.IO logo" height="80px" class="center-block" %}
 
 I co-founded Flood.IO with the amazing [Tim Koopmans](https://timkoopmans.com/) with [Ivan Vanderbyl](https://ivan.dev/) joinging shortly after.
 
@@ -48,20 +48,20 @@ Flood.IO solved load and performance testing of websites in a really simple mann
 
 <hr>
 
-{% include linked_image.html link="https://stillalive.com/" file="/assets/images/stillalive-logo.png" title="StillAlive logo" alt="Image of the StillAlive logo" height="80px" class="center-block" %}
+{% include image.html file="/assets/images/stillalive-logo.png" title="StillAlive logo" alt="Image of the StillAlive logo" height="80px" class="center-block" %}
 
 I founded StillAlive to provide an uptime monitoring tool that ensured a site is up and online but instead of just a ping check, we were one of the first to build out a scripted approach to actually testing a complex web application could actually do something (like a checkout) within an expected time frame.
 
-After a couple of years of growth, we sold StillAlive.com to the awesome people at [copper.io](https://copper.io/)
+After a couple of years of growth, we sold StillAlive.com to the awesome people at copper.io which later became [scaleworks](https://www.scaleworks.com/).
 
 <hr>
 
 {% include linked_image.html link="https://statushub.io/" file="/assets/images/statushub-logo.png" title="StatusHub logo" alt="Image of the StatusHub logo" height="80px" class="center-block" %}
 
-I created StatusHub as one of the first status websites, it was an obvious thing to build alongside of StillAlive.com and took off.  As part of the StillAlive sale, we also sold StatusHub to the awesome people at [copper.io](https://copper.io/)
+I created StatusHub as one of the first status websites, it was an obvious thing to build alongside of StillAlive.com and took off.  We also sold StatusHub to the awesome people at copper.io at the right time.
 
 <hr>
 
 {% include linked_image.html link="https://enlight.training/" file="/assets/images/enlight-logo.png" title="enlight logo" alt="Image of the enlight logo" height="80px" class="center-block" %}
 
-enlight.training was created to help handle the online learning space, I found online courses uninspiring and enlight solved this itch by providing interactivity to the student with real human instructors.  Last year I sold enlight.training to a group of passionate co-founders who want to focus and give enlight the attention it deserves.
+enlight.training was created to help handle the online learning space, I found online courses uninspiring and enlight solved this itch by providing interactivity to the student with real human instructors.  In 2021 I sold enlight.training to The Learning Platform, a group of passionate co-founders who want to grow enlight.
