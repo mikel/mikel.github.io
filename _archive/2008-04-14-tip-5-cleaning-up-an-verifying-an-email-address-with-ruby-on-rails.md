@@ -2,7 +2,7 @@
 title: "Tip #5 - Cleaning Up an Email Address with Ruby on Rails"
 author: Mikel Lindsaar
 date: 2008-04-14
-layout: post
+layout: home
 redirect_from:
   - /2008/4/14/tip-5-cleaning-up-an-verifying-an-email-address-with-ruby-on-rails
   - /2008/4/13/tip-5-cleaning-up-an-verifying-an-email-address-with-ruby-on-rails
@@ -106,4 +106,3 @@ Next tip, validating the email address by domain before saving.
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Tip #20 - Subscribe to Rails Envy"
 author: Mikel Lindsaar
 date: 2008-05-27
-layout: post
+layout: home
 redirect_from:
   - /2008/5/27/tip-20-subscribe-to-rails-envy
   - /2008/5/26/tip-20-subscribe-to-rails-envy
@@ -34,4 +34,3 @@ you get from this blog entry, send me some of that sponsorship love :)
 blogLater
 
 Mikel
-

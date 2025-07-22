@@ -2,7 +2,7 @@
 title: "Stored Procedures and MS SQL Server"
 author: Mikel Lindsaar
 date: 2007-11-17
-layout: post
+layout: home
 redirect_from:
   - /2007/11/17/stored-procedures-and-ms-sql-server
 ---
@@ -44,4 +44,3 @@ integration... I am sure I will need to refer back a few times!
 blogLater
 
 Mikel
-

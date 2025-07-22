@@ -2,7 +2,7 @@
 title: "Inline Attachments for ActionMailer"
 author: Mikel Lindsaar
 date: 2010-06-07
-layout: post
+layout: home
 redirect_from:
   - /2010/6/7/inline-attachments-for-actionmailer
 ---
@@ -71,4 +71,3 @@ Enjoy and have fun!
 blogLater
 
 Mikel
-

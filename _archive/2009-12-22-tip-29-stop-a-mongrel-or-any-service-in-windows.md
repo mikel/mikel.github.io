@@ -2,7 +2,7 @@
 title: "Tip #29 - Stop a Mongrel (or any) Service in Windows"
 author: Mikel Lindsaar
 date: 2009-12-22
-layout: post
+layout: home
 redirect_from:
   - /2009/12/22/tip-29-stop-a-mongrel-or-any-service-in-windows
   - /2009/12/23/tip-29-stop-a-mongrel-or-any-service-in-windows
@@ -50,4 +50,3 @@ you can :)
 blogLater
 
 Mikel
-

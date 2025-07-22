@@ -2,7 +2,7 @@
 title: "Mac OSX 10.5.3 Finally Fixes Windows AD Integration"
 author: Mikel Lindsaar
 date: 2008-05-28
-layout: post
+layout: home
 redirect_from:
   - /2008/5/28/mac-osx-10-5-3-finally-fixes-windows-ad-integration
 ---
@@ -20,4 +20,3 @@ Woohoo!
 blogLater
 
 Mikel
-

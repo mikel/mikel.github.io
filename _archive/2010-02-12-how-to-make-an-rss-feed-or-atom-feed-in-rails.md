@@ -2,7 +2,7 @@
 title: "How to make an RSS feed in Rails"
 author: Mikel Lindsaar
 date: 2010-02-12
-layout: post
+layout: home
 redirect_from:
   - /2010/2/12/how-to-make-an-rss-feed-or-atom-feed-in-rails
 ---
@@ -135,4 +135,3 @@ KTHXBAI](http://twitter.com/raasdnil/statuses/9045548351)
 blogLater
 
 Mikel
-

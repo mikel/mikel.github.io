@@ -1,39 +1,51 @@
 <!DOCTYPE HTML>
 <html lang="en" >
     <head>
-
         {%- include head.html -%}
 
         {% assign all_posts = site.posts %}
-
         {% if all_posts %}
             <link rel="next" href="{{site.baseurl}}{{all_posts.first.url}}" />
         {% endif %}
+
+        {% if page.title %}
+        <meta property="og:title" content="{{ page.title }}">
+        {% else %}
+        <meta property="og:title" content="Mikel Lindsaar's Musings">
+        {% endif %}
+        <meta property="og:image" content="{{ site.baseurl }}/assets/images/mikel-lindsaar-bw.jpg">
+        {% if page.description %}
+        <meta property="og:description" content="{{ page.description }}">
+        {% endif %}
+        <meta property="og:url" content="{{ site.baseurl }}{{ page.permalink }}">
+        <meta property="og:type" content="article">
     </head>
     <body>
-        <div id="wrapper" class="book">
+        <div id="wrapper">
 
-            {%- include toc-date.html -%}
+            <section class="whomai">
+                {% include linked_image.html link="/"
+                            file="/assets/images/mikel-lindsaar-small-bw.jpg"
+                            title="Mikel Lindsaar"
+                            alt="Mikel Lindsaar"
+                            image_class="circle-cropped" %}
+                <p class="name">Mikel Lindsaar</p>
+            </section>
+            <section class="content {{ page.class }}">
+                <article>
+                    {% if page.date %}
+                        <div class="date">{{ page.date | date: "%-d %B %Y" }}</div>
+                    {% endif %}
+                    {% if page.title %}
+                        <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
+                    {% endif %}
 
-            <div class="book-body">
-                {%- include body.html -%}
-
-                {% if all_posts %}
-                    <a href="{{site.baseurl}}{{all_posts.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{all_posts.first.title}}">
-                        <i class="fa fa-angle-right"></i>
-                    </a>
-                {% endif %}
-            </div>
-
-            <script>
-            var gitbook = gitbook || [];
-            gitbook.push(function() {
-                gitbook.page.hasChanged({%- include metadata-home.json.tpl -%});
-            });
-            </script>
+                    {{ content }}
+                </article>
+            </section>
+            <section class="footer">
+                {%- include footer.html -%}
+            </section>
         </div>
-
-        {%- include footer.html -%}
-
     </body>
 </html>

@@ -2,7 +2,7 @@
 title: "Twitter Replacing Rails?  So?"
 author: Mikel Lindsaar
 date: 2011-04-09
-layout: post
+layout: home
 redirect_from:
   - /2011/4/9/twitter-replacing-rails-so
 ---
@@ -41,4 +41,3 @@ managed to run *twitter's* search feature successfully for THIS LONG?!"
 blogLater
 
 Mikel
-

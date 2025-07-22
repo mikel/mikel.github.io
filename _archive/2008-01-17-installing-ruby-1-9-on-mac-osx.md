@@ -2,7 +2,7 @@
 title: "Installing Ruby 1.9 on Mac OSX"
 author: Mikel Lindsaar
 date: 2008-01-17
-layout: post
+layout: home
 redirect_from:
   - /2008/1/17/installing-ruby-1-9-on-mac-osx
   - /2008/1/16/installing-ruby-1-9-on-mac-osx
@@ -38,7 +38,7 @@ get it from the [readline GNU page](http://ftp.gnu.org/gnu/readline/)
 Do the following from your home directory:
 
 ``` shell
-baci:~ mikel$ tar xvzf readline-5.2.tar.gz 
+baci:~ mikel$ tar xvzf readline-5.2.tar.gz
 baci:~ mikel$ cd readline-5.2
 baci:~/readline-5.2 mikel$ ./configure --prefix=/usr/local/
 baci:~/readline-5.2 mikel$ make
@@ -90,4 +90,3 @@ Enjoy!
 blogLater
 
 Mikel
-

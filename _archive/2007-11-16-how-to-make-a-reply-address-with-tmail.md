@@ -2,7 +2,7 @@
 title: "How to make a reply address with TMail"
 author: Mikel Lindsaar
 date: 2007-11-16
-layout: post
+layout: home
 redirect_from:
   - /2007/11/16/how-to-make-a-reply-address-with-tmail
 ---
@@ -50,4 +50,3 @@ Hope you enjoy it!
 blogLater
 
 Mikel
-

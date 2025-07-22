@@ -2,7 +2,7 @@
 title: "I am speaking at RailsConf 2010"
 author: Mikel Lindsaar
 date: 2010-04-12
-layout: post
+layout: home
 redirect_from:
   - /2010/4/12/i_am_speaking_at_railsconf_2010
 ---
@@ -29,4 +29,3 @@ See you soon!
 blogLater
 
 Mikel
-

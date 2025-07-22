@@ -2,7 +2,7 @@
 title: "Tip #22 - How to ask a question about Rails"
 author: Mikel Lindsaar
 date: 2008-06-04
-layout: post
+layout: home
 redirect_from:
   - /2008/6/4/tip-22-how-to-ask-a-question-about-rails
 ---
@@ -31,4 +31,3 @@ a lot of people to read, and so I'll link it here as well.
 blogLater
 
 Mikel
-

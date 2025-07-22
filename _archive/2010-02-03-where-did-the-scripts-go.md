@@ -2,7 +2,7 @@
 title: "Where did the scripts go? "
 author: Mikel Lindsaar
 date: 2010-02-03
-layout: post
+layout: home
 redirect_from:
   - /2010/2/3/where-did-the-scripts-go
 ---
@@ -16,16 +16,16 @@ The script directory used to contain
 
   ------------------------- -- -------------------- -- ----------------------
   **Old Script File**          **How to use now**      **Shortcut Command**
-  `about`                      rake about              
+  `about`                      rake about
   `server`                     rails server            rails s
   `console`                    rails console           rails c
   `dbconsole`                  rails dbconsole         rails db
   `generate`                   rails generate          rails g
-  `destroy`                    rails destroy           
-  `performance/benchmark`      rails benchmark         
-  `performance/profiler`       rails profiler          
-  `plugin`                     rails plugin            
-  `runner`                     rails runner            
+  `destroy`                    rails destroy
+  `performance/benchmark`      rails benchmark
+  `performance/profiler`       rails profiler
+  `plugin`                     rails plugin
+  `runner`                     rails runner
   ------------------------- -- -------------------- -- ----------------------
 
 As you can see from the above, the [server]{.underline},
@@ -53,4 +53,3 @@ application inside your new Rails 3 app directory.
 blogLater
 
 Mikel
-

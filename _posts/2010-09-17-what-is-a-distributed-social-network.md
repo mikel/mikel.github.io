@@ -2,7 +2,7 @@
 title: "What is a distributed social network? "
 author: Mikel Lindsaar
 date: 2010-09-17
-layout: post
+layout: home
 redirect_from:
   - /2010/9/17/what_is_a_distributed_social_network
 ---
@@ -150,4 +150,3 @@ profit off the fact that I call you my friend.
 blogLater
 
 Mikel
-

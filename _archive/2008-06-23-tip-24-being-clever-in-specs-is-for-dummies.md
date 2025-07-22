@@ -2,7 +2,7 @@
 title: "Tip #24 - Being clever in specs is for dummies"
 author: Mikel Lindsaar
 date: 2008-06-23
-layout: post
+layout: home
 redirect_from:
   - /2008/6/23/tip-24-being-clever-in-specs-is-for-dummies
 ---
@@ -231,4 +231,3 @@ calls....
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Upgrading SVN on OpenBSD - relink your binary => libthread.so"
 author: Mikel Lindsaar
 date: 2007-11-26
-layout: post
+layout: home
 redirect_from:
   - /2007/11/26/upgrading-svn-on-openbsd-relink-your-binary-libthread-so
 ---
@@ -60,4 +60,3 @@ Handy.
 blogLater
 
 Mikel
-

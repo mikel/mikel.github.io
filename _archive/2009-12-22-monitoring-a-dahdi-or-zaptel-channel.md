@@ -2,7 +2,7 @@
 title: "Monitoring a DAHDI or Zaptel Channel "
 author: Mikel Lindsaar
 date: 2009-12-22
-layout: post
+layout: home
 redirect_from:
   - /2009/12/22/monitoring-a-dahdi-or-zaptel-channel
 ---
@@ -48,4 +48,3 @@ that you can transfer to your laptop can play to your hearts content.
 blogLater
 
 Mikel
-

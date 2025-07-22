@@ -2,7 +2,7 @@
 title: "Bundler and Public Git Sources "
 author: Mikel Lindsaar
 date: 2010-09-16
-layout: post
+layout: home
 redirect_from:
   - /2010/9/16/bundler_and_public_git_sources
 ---
@@ -51,4 +51,3 @@ cheap insurance.
 blogLater
 
 Mikel
-

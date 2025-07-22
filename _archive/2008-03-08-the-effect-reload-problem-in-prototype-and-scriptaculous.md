@@ -2,7 +2,7 @@
 title: "The effect reload problem in Prototype and Scriptaculous"
 author: Mikel Lindsaar
 date: 2008-03-08
-layout: post
+layout: home
 redirect_from:
   - /2008/3/8/the-effect-reload-problem-in-prototype-and-scriptaculous
   - /2008/3/7/the-effect-reload-problem-in-prototype-and-scriptaculous
@@ -81,4 +81,3 @@ Shout out to bugrain for the pointers.
 blogLater
 
 Mikel
-

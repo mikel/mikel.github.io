@@ -2,7 +2,7 @@
 title: "How to rename a Rails 3 Application"
 author: Mikel Lindsaar
 date: 2010-01-18
-layout: post
+layout: home
 redirect_from:
   - /2010/1/18/rename-rails-3-application
   - /2010/1/19/rename-rails-3-application
@@ -51,4 +51,3 @@ blogLater
 Mikel
 
 Edited 21 Sept 2010: to update per reader comments below.
-

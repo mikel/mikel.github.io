@@ -2,7 +2,7 @@
 title: "Examples of Behaviour Spec'n"
 author: Mikel Lindsaar
 date: 2008-06-29
-layout: post
+layout: home
 redirect_from:
   - /2008/6/29/examples-of-behaviour-spec-n
 ---
@@ -170,4 +170,3 @@ Anyway, that's just how I do it, your mileage may vary.
 blogLater
 
 Mikel
-

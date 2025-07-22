@@ -2,7 +2,7 @@
 title: "Mail, TMail, The Future of Ruby Email Handling"
 author: Mikel Lindsaar
 date: 2009-09-17
-layout: post
+layout: home
 redirect_from:
   - /2009/9/17/mail-tmail-the-future-of-ruby-email-handling
 ---
@@ -61,4 +61,3 @@ support soon.
 Forks and patches welcome!
 
 Mikel
-

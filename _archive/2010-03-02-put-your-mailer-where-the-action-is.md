@@ -2,7 +2,7 @@
 title: "Put your mailer where the action is! "
 author: Mikel Lindsaar
 date: 2010-03-02
-layout: post
+layout: home
 redirect_from:
   - /2010/3/2/put-your-mailer-where-the-action-is
 ---
@@ -104,4 +104,3 @@ one!
 blogLater
 
 Mikel
-

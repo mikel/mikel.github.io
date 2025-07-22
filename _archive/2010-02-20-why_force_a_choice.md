@@ -2,7 +2,7 @@
 title: "Why Force a Choice? "
 author: Mikel Lindsaar
 date: 2010-02-20
-layout: post
+layout: home
 redirect_from:
   - /2010/2/20/why_force_a_choice
 ---
@@ -81,4 +81,3 @@ then you will find your product will become more and more successful.
 blogLater
 
 Mikel
-

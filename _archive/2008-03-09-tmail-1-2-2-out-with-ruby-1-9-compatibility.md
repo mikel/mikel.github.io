@@ -2,7 +2,7 @@
 title: "TMail 1.2.2 Out with Ruby 1.9 Compatibility"
 author: Mikel Lindsaar
 date: 2008-03-09
-layout: post
+layout: home
 redirect_from:
   - /2008/3/9/tmail-1-2-2-out-with-ruby-1-9-compatibility
 ---
@@ -50,4 +50,3 @@ patch](https://lindsaar.net/2008/1/19/contributing-to-tmail), or simply
 blogLater
 
 Mikel
-

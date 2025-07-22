@@ -2,7 +2,7 @@
 title: "Copying an SQLServer Database"
 author: Mikel Lindsaar
 date: 2007-11-30
-layout: post
+layout: home
 redirect_from:
   - /2007/11/30/copying-an-sqlserver-database
 ---
@@ -96,4 +96,3 @@ You will generally find it is one of two things:
 Good luck!
 
 Mikel
-

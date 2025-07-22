@@ -2,7 +2,7 @@
 title: "It's amazing what you find..."
 author: Mikel Lindsaar
 date: 2008-06-06
-layout: post
+layout: home
 redirect_from:
   - /2008/6/6/it-s-amazing-what-you-find
 ---
@@ -19,4 +19,3 @@ Ticket`</a>`{=html}
 blogLater
 
 Mikel
-

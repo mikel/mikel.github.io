@@ -2,7 +2,7 @@
 title: "RSpec Textmate Bundle Troubles"
 author: Mikel Lindsaar
 date: 2007-11-15
-layout: post
+layout: home
 redirect_from:
   - /2007/11/15/rspec-textmate-bundle-troubles
 ---
@@ -68,4 +68,3 @@ our two favorite tools will show love for one another again!
 blogLater
 
 Mikel
-

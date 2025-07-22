@@ -2,7 +2,7 @@
 title: "Upgrading RailsPlugins.org to Rails 3 - Part 1"
 author: Mikel Lindsaar
 date: 2010-09-24
-layout: post
+layout: home
 redirect_from:
   - /2010/9/27/Upgrading_RailsPlugins_org_to_Rails_3_Part_1
   - /2010/5/18/Upgrading_RailsPlugins_org_to_Rails_3_Part_1
@@ -150,7 +150,7 @@ Deprecated constant(s)
 Constants like RAILS_ENV, RAILS_ROOT, and RAILS_DEFAULT_LOGGER are now deprecated.
 More information: http://litanyagainstfear.com/blog/2010/02/03/the-rails-module/
 
-The culprits: 
+The culprits:
   - /Users/mikel/Code/railsplugins/lib/tasks/environments.rake
   - /Users/mikel/Code/railsplugins/lib/tasks/cucumber.rake
   - /Users/mikel/Code/railsplugins/lib/tasks/hoptoad_notifier_tasks.rake
@@ -168,7 +168,7 @@ Opening up environments.rake we see:
 ``` shell
 # Sets environments as needed for rake tasks
 %w[development production staging].each do |env|
-  desc "Runs the following task in the #{env} environment" 
+  desc "Runs the following task in the #{env} environment"
   task env do
     RAILS_ENV = ENV['RAILS_ENV'] = env
   end
@@ -195,7 +195,7 @@ rake task to be Rails 3 compatible would be:
 ``` shell
 # Sets environments as needed for rake tasks
 %w[development production staging].each do |env|
-  desc "Runs the following task in the #{env} environment" 
+  desc "Runs the following task in the #{env} environment"
   task env do
     Rails.env = env
   end
@@ -227,14 +227,14 @@ Deprecated session secret setting
 Previously, session secret was set directly on ActionController::Base; it's now config.secret_token.
 More information: http://weblog.rubyonrails.org/
 
-The culprits: 
+The culprits:
     - /Users/mikel/Code/railsplugins/config/initializers/session_store.rb
 
 Old session store setting
 Previously, session store was set directly on ActionController::Base; it's now config.session_store :whatever.
 More information: http://weblog.rubyonrails.org/
 
-The culprits: 
+The culprits:
   - /Users/mikel/Code/railsplugins/config/initializers/session_store.rb
 ```
 
@@ -279,4 +279,3 @@ actually up and running on Rails 3.
 blogLater
 
 Mikel
-

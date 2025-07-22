@@ -2,7 +2,7 @@
 title: "Is Rails 3.0 a Game Changer? "
 author: Mikel Lindsaar
 date: 2010-02-04
-layout: post
+layout: home
 redirect_from:
   - /2010/2/4/is_rails_3_a_game_changer
 ---
@@ -134,4 +134,3 @@ Yes.
 blogLater
 
 Mikel
-

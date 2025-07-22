@@ -2,7 +2,7 @@
 title: "Simple Rails Javascript Form Validation"
 author: Mikel Lindsaar
 date: 2008-03-02
-layout: post
+layout: home
 redirect_from:
   - /2008/3/2/simple-rails-javascript-form-validation
 ---
@@ -53,4 +53,3 @@ button.disabled = !(length_ok && not_empty);
 blogLater
 
 Mikel
-

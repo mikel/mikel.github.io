@@ -2,7 +2,7 @@
 title: "Why use lambda in RSpec?"
 author: Mikel Lindsaar
 date: 2007-11-14
-layout: post
+layout: home
 redirect_from:
   - /2007/11/14/what-is-lambda-in-rspec
 ---
@@ -14,8 +14,8 @@ late at night... so lets replace it!
 How about this for a spec:
 
 ``` ruby
-doing { 
-  @my_object.function 
+doing {
+  @my_object.function
 }.should raise_error(ArgumentError, "Unknown tag type")
 ```
 
@@ -24,7 +24,7 @@ Nice and readable..
 Of course, it is functionally the same as:
 
 ``` ruby
-lambda { 
+lambda {
   @my_object.function
 }.should raise_error(ArgumentError, "Unknown tag type")
 ```
@@ -35,7 +35,7 @@ To get it to work in rails, put the following line of code into your
 spec_helper.rb file.
 
 ``` ruby
- alias :doing :lambda 
+ alias :doing :lambda
 ```
 
 Simple heh?
@@ -43,4 +43,3 @@ Simple heh?
 blogLater
 
 Mikel
-

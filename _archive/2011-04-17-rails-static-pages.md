@@ -2,7 +2,7 @@
 title: "Rails Static Pages"
 author: Mikel Lindsaar
 date: 2011-04-17
-layout: post
+layout: home
 redirect_from:
   - /2011/4/17/rails-static-pages
   - /2011/4/18/rails-static-pages
@@ -156,4 +156,3 @@ Hope this helps :)
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Tip #28 - Separate the things that change from the things that stay the same"
 author: Mikel Lindsaar
 date: 2008-07-12
-layout: post
+layout: home
 redirect_from:
   - /2008/7/12/tip-28-separate-the-things-that-change-from-the-things-that-stay-the-same
 ---
@@ -49,4 +49,3 @@ looking at for a Ruby on Rails intermediate type who wants to find out
 more about plugins and extending ActiveRecord.
 
 Mikel
-

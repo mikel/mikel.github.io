@@ -2,7 +2,7 @@
 title: "History Buttons with AJAX and Ruby on Rails"
 author: Mikel Lindsaar
 date: 2008-02-21
-layout: post
+layout: home
 redirect_from:
   - /2008/2/21/history-buttons-with-ajax-and-ruby-on-rails
 ---
@@ -159,7 +159,7 @@ the history link. We can do this like so:
 ``` ruby
 # app/views/users/index.js.rjs
 page.replace_html('MainContent', :partial => 'users')
-page << %[dhtmlHistory.add("users", "new Ajax.Request('/users/', {asynchronous:false, evalScripts:true, method:'get'});")] 
+page << %[dhtmlHistory.add("users", "new Ajax.Request('/users/', {asynchronous:false, evalScripts:true, method:'get'});")]
 ```
 
 Then in the products RJS template we do the same thing (but for the
@@ -168,7 +168,7 @@ products page instead):
 ``` ruby
 # app/views/products/index.js.rjs
 page.replace_html('MainContent', :partial => 'products')
-page << %[dhtmlHistory.add("products", "new Ajax.Request('/products/', {asynchronous:false, evalScripts:true, method:'get'});")] 
+page << %[dhtmlHistory.add("products", "new Ajax.Request('/products/', {asynchronous:false, evalScripts:true, method:'get'});")]
 ```
 
 That is it!
@@ -224,4 +224,3 @@ Much nicer.
 blogLater
 
 Mikel
-

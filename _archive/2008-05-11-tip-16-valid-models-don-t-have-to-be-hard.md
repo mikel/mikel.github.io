@@ -2,7 +2,7 @@
 title: "Tip #16 - Valid Models Don't Have to be Hard"
 author: Mikel Lindsaar
 date: 2008-05-11
-layout: post
+layout: home
 redirect_from:
   - /2008/5/11/tip-16-valid-models-don-t-have-to-be-hard
 ---
@@ -173,4 +173,3 @@ blog on this, as he goes into detail on how you use it.
 blogLater
 
 Mikel
-

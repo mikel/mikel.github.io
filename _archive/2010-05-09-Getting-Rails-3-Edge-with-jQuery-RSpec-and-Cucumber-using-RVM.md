@@ -2,7 +2,7 @@
 title: "Getting Rails 3 Edge with jQuery, RSpec and Cucumber using RVM "
 author: Mikel Lindsaar
 date: 2010-05-09
-layout: post
+layout: home
 redirect_from:
   - /2010/5/9/Getting-Rails-3-Edge-with-jQuery-RSpec-and-Cucumber-using-RVM
 ---
@@ -36,7 +36,7 @@ Now we have Rails install our app using the standard `rails g` command.
 
 ``` {.shell lang="shell" data-caption="creating an app"}
 $ rails my_app -JT
-     create  
+     create
      create  README
      create  .gitignore
      create  Rakefile
@@ -91,7 +91,7 @@ Awesome.
 ``` {.shell lang="shell" data-caption="cleaning up the app"}
 $ cd my_app/
 $ rm public/index.html
-$ rm public/images/rails.png 
+$ rm public/images/rails.png
 ```
 
 Notice I deleted the `index.html` and `rails.png` above. You don't
@@ -239,8 +239,8 @@ Good to go, so now we are just a `bundle install` away from launching:
 ``` {.shell lang="shell" data-caption="bundle installing"}
  $ bundle install
 Fetching source index from http://rubygems.org/
-Using rake (0.8.7) from system gems 
-Installing abstract (1.0.0) from .gem files at /Users/mikel/.rvm/gems/ruby-1.8.7-p249@my_app/cache 
+Using rake (0.8.7) from system gems
+Installing abstract (1.0.0) from .gem files at /Users/mikel/.rvm/gems/ruby-1.8.7-p249@my_app/cache
 ...
 ```
 
@@ -386,4 +386,3 @@ Enjoy!
 blogLater
 
 Mikel
-

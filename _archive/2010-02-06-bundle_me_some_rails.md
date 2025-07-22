@@ -2,7 +2,7 @@
 title: "Bundle me some Rails"
 author: Mikel Lindsaar
 date: 2010-02-06
-layout: post
+layout: home
 redirect_from:
   - /2010/2/6/bundle_me_some_rails
 ---
@@ -29,7 +29,7 @@ Please install the postgresql adapter: `gem install activerecord-postgresql-adap
 (no such file to load -- pg) (RuntimeError)
   from /Users/mikel/.gem/ruby/1.8/gems/activerecord-3.0.0.beta/lib/active_record/connection_adapters/abstract/connection_specification.rb:60:in
 `establish_connection'
-  from /Users/mikel/.gem/ruby/1.8/gems/activerecord-3.0.0.beta/lib/active_record/connection_adapters/abstract/connection_specification.rb:55:in 
+  from /Users/mikel/.gem/ruby/1.8/gems/activerecord-3.0.0.beta/lib/active_record/connection_adapters/abstract/connection_specification.rb:55:in
 `establish_connection'
   from /Users/mikel/.gem/ruby/1.8/gems/activerecord-3.0.0.beta/lib/active_record/railtie.rb:45
 ...
@@ -265,32 +265,32 @@ types:
 
 ``` shell
  $ bundle install
-Installing abstract (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing actionmailer (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing actionpack (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activemodel (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activerecord (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activeresource (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activesupport (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing arel (0.2.1) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing builder (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing bundler (0.9.3) from system gems 
-Installing erubis (2.6.5) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing i18n (0.3.3) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing mail (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing memcache-client (1.7.8) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing mime-types (1.16) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rack (1.1.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rack-mount (0.4.5) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rack-test (0.5.3) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rails (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing railties (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rake (0.8.7) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing sqlite3-ruby (1.2.5) from .gem files at /Users/mikel/Code/app/vendor/cache with native extensions 
-Installing text-format (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing text-hyphen (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing thor (0.13.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing tzinfo (0.3.16) from .gem files at /Users/mikel/Code/app/vendor/cache 
+Installing abstract (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing actionmailer (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing actionpack (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activemodel (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activerecord (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activeresource (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activesupport (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing arel (0.2.1) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing builder (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing bundler (0.9.3) from system gems
+Installing erubis (2.6.5) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing i18n (0.3.3) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing mail (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing memcache-client (1.7.8) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing mime-types (1.16) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rack (1.1.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rack-mount (0.4.5) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rack-test (0.5.3) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rails (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing railties (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rake (0.8.7) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing sqlite3-ruby (1.2.5) from .gem files at /Users/mikel/Code/app/vendor/cache with native extensions
+Installing text-format (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing text-hyphen (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing thor (0.13.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing tzinfo (0.3.16) from .gem files at /Users/mikel/Code/app/vendor/cache
 Your bundle is complete!
 ```
 
@@ -324,71 +324,71 @@ What this command does is make a Gemfile.lock file in your application's
 root directory which looks like this:
 
 ``` ruby
---- 
-dependencies: 
+---
+dependencies:
 - rails: = 3.0.0.beta
 - sqlite3-ruby: ">= 0"
 - pg: ">= 0"
-specs: 
-- text-hyphen: 
+specs:
+- text-hyphen:
     version: 1.0.0
-- builder: 
+- builder:
     version: 2.1.2
-- i18n: 
+- i18n:
     version: 0.3.3
-- bundler: 
+- bundler:
     version: 0.9.3
-- arel: 
+- arel:
     version: 0.2.1
-- activemodel: 
+- activemodel:
     version: 3.0.0.beta
-- rack-mount: 
+- rack-mount:
     version: 0.4.5
-- abstract: 
+- abstract:
     version: 1.0.0
-- erubis: 
+- erubis:
     version: 2.6.5
-- mime-types: 
+- mime-types:
     version: "1.16"
-- mail: 
+- mail:
     version: 2.1.2
-- thor: 
+- thor:
     version: 0.13.0
-- memcache-client: 
+- memcache-client:
     version: 1.7.8
-- rack: 
+- rack:
     version: 1.1.0
-- rack-test: 
+- rack-test:
     version: 0.5.3
-- actionpack: 
+- actionpack:
     version: 3.0.0.beta
-- rake: 
+- rake:
     version: 0.8.7
-- railties: 
+- railties:
     version: 3.0.0.beta
-- sqlite3-ruby: 
+- sqlite3-ruby:
     version: 1.2.5
-- text-format: 
+- text-format:
     version: 1.0.0
-- actionmailer: 
+- actionmailer:
     version: 3.0.0.beta
-- activerecord: 
+- activerecord:
     version: 3.0.0.beta
-- pg: 
+- pg:
     version: 0.8.0
-- activeresource: 
+- activeresource:
     version: 3.0.0.beta
-- rails: 
+- rails:
     version: 3.0.0.beta
-- tzinfo: 
+- tzinfo:
     version: 0.3.16
-- activesupport: 
+- activesupport:
     version: 3.0.0.beta
 hash: b75772b5511703b25aded771d7ca687836679fef
-sources: 
-- Rubygems: 
+sources:
+- Rubygems:
     uri: http://gemcutter.org
-- Path: 
+- Path:
     glob: "{*/,}*.gemspec"
     path: /Users/mikel/rails_programs/rails
 ```
@@ -423,34 +423,34 @@ Well, good, I like being lead by the hand...
  $ bundle install
 Fetching source index from http://gemcutter.org
 Resolving dependencies
-Installing abstract (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing actionmailer (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing actionpack (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activemodel (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activerecord (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activeresource (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing activesupport (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing arel (0.2.1) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing builder (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing bundler (0.9.3) from system gems 
-Installing erubis (2.6.5) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing hpricot (0.6) from rubygems repository at http://gemcutter.org with native extensions 
-Installing i18n (0.3.3) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing mail (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing memcache-client (1.7.8) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing mime-types (1.16) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing pg (0.8.0) from system gems 
-Installing rack (1.1.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rack-mount (0.4.5) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rack-test (0.5.3) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rails (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing railties (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing rake (0.8.7) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing sqlite3-ruby (1.2.5) from .gem files at /Users/mikel/Code/app/vendor/cache with native extensions 
-Installing text-format (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing text-hyphen (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing thor (0.13.0) from .gem files at /Users/mikel/Code/app/vendor/cache 
-Installing tzinfo (0.3.16) from .gem files at /Users/mikel/Code/app/vendor/cache 
+Installing abstract (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing actionmailer (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing actionpack (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activemodel (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activerecord (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activeresource (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing activesupport (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing arel (0.2.1) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing builder (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing bundler (0.9.3) from system gems
+Installing erubis (2.6.5) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing hpricot (0.6) from rubygems repository at http://gemcutter.org with native extensions
+Installing i18n (0.3.3) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing mail (2.1.2) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing memcache-client (1.7.8) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing mime-types (1.16) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing pg (0.8.0) from system gems
+Installing rack (1.1.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rack-mount (0.4.5) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rack-test (0.5.3) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rails (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing railties (3.0.0.beta) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing rake (0.8.7) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing sqlite3-ruby (1.2.5) from .gem files at /Users/mikel/Code/app/vendor/cache with native extensions
+Installing text-format (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing text-hyphen (1.0.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing thor (0.13.0) from .gem files at /Users/mikel/Code/app/vendor/cache
+Installing tzinfo (0.3.16) from .gem files at /Users/mikel/Code/app/vendor/cache
 Your bundle is complete!
 ```
 
@@ -532,4 +532,3 @@ manager.
 blogLater
 
 Mikel
-

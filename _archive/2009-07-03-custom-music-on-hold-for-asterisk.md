@@ -2,7 +2,7 @@
 title: "Custom Music on Hold for Asterisk"
 author: Mikel Lindsaar
 date: 2009-07-03
-layout: post
+layout: home
 redirect_from:
   - /2009/7/3/custom-music-on-hold-for-asterisk
   - /2009/7/2/custom-music-on-hold-for-asterisk
@@ -47,4 +47,3 @@ Then install your new music files
 Then reload Asterisk and you should be good to go!
 
 Mikel
-

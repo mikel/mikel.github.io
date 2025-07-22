@@ -2,7 +2,7 @@
 title: "validates :rails_3, :awesome => true"
 author: Mikel Lindsaar
 date: 2010-01-30
-layout: post
+layout: home
 redirect_from:
   - /2010/1/30/validates_rails_3_awesome_is_true
   - /2010/1/31/validates_rails_3_awesome_is_true
@@ -70,10 +70,10 @@ something like this:
 ``` ruby
 # app/models/person.rb
 class User < ActiveRecord::Base
-  validates :name,  :presence => true, 
+  validates :name,  :presence => true,
                     :length => {:minimum => 1, :maximum => 254}
 
-  validates :email, :presence => true, 
+  validates :email, :presence => true,
                     :length => {:minimum => 3, :maximum => 254},
                     :uniqueness => true,
                     :format => {:with => /^([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})$/i}
@@ -124,7 +124,7 @@ class EmailValidator < ActiveModel::EachValidator
 
   def validate_each(record, attribute, value)
     unless value =~ EmailAddress
-      record.errors[attribute] << (options[:message] || "is not valid") 
+      record.errors[attribute] << (options[:message] || "is not valid")
     end
   end
 
@@ -147,10 +147,10 @@ So now in our User class we can simply change it to:
 ``` ruby
 # app/models/person.rb
 class User < ActiveRecord::Base
-  validates :name,  :presence => true, 
+  validates :name,  :presence => true,
                     :length => {:minimum => 1, :maximum => 254}
 
-  validates :email, :presence => true, 
+  validates :email, :presence => true,
                     :length => {:minimum => 3, :maximum => 254},
                     :uniqueness => true,
                     :email => true
@@ -164,7 +164,7 @@ call? This is much cleaner and simple, and more importantly, reusable.
 Now in our console, we will see something like:
 
 ``` shell
- $ ./script/console 
+ $ ./script/console
 Loading development environment (Rails 3.0.pre)
 ?> u = User.new(:name => 'Mikel', :email => 'bob')
 => #<User id: nil, name: "Mikel", email: "bob", created_at: nil, updated_at: nil>
@@ -224,7 +224,7 @@ Which is an obviously contrived example, but would produce this result
 in our console:
 
 ``` shell
-$ ./script/console 
+$ ./script/console
 Loading development environment (Rails 3.0.pre)
 >> u = User.new
 => #<User id: nil, name: nil, email: nil, created_at: nil, updated_at: nil>
@@ -270,4 +270,3 @@ Hill](http://thelucid.com/2010/01/08/sexy-validation-in-edge-rails-rails-3/),
 Peek](http://joshpeek.com/) for getting [the
 patch](https://rails.lighthouseapp.com/projects/8994/tickets/3058-patch-sexy-validations)
 in.
-

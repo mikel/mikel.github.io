@@ -2,7 +2,7 @@
 title: "Multi-Table Inheritance in Rails - When two tables are one..."
 author: Mikel Lindsaar
 date: 2008-03-12
-layout: post
+layout: home
 redirect_from:
   - /2008/3/12/multi-table-inheritance-in-rails-when-two-tables-are-one
 ---
@@ -71,7 +71,7 @@ is basically *any* query you want that you can access like a table in a
 select query. So you can do:
 
 ``` sql
-SELECT * FROM view_name JOIN some_other_table... <blah> WHERE <blah>; 
+SELECT * FROM view_name JOIN some_other_table... <blah> WHERE <blah>;
 ```
 
 Which makes it a perfect substitute for our situation.
@@ -150,7 +150,7 @@ db:migrate' and jump into console and check it out:
 baci:~/app mikel$ ./script/console
 Loading development environment (Rails 2.0.2)
 >> @person = Person.find(:first)
-=> #<Person id: 1, first_name: 'Mikel', last_name: 
+=> #<Person id: 1, first_name: 'Mikel', last_name:
 'Lindsaar' :class_name 'ExternalPerson' .....
 ```
 
@@ -192,7 +192,7 @@ Further, we can do this:
 
 ``` shell
 >> @p = Person.find(:first, :conditions => 'class_name = 'InternalPerson')
-=> #<InternalPerson id: 1, first_name: 'Bob', last_name: 'Smith' 
+=> #<InternalPerson id: 1, first_name: 'Bob', last_name: 'Smith'
 :class_name => 'ExternalPerson' .....
 ```
 
@@ -280,7 +280,7 @@ I'll show you in the console (snipped for brevity)
 baci:~/app mikel$ ./script/console
 Loading development environment (Rails 2.0.2)
 >> @person = Person.find(:first)
-=> #<ExternalPerson id: 1, first_name: 'Mikel', last_name: 'Lindsaar' 
+=> #<ExternalPerson id: 1, first_name: 'Mikel', last_name: 'Lindsaar'
 :class_name => 'ExternalPerson' .....
 >> @person.class
 => ExternalPerson(id: integer, first_name: string...)
@@ -359,4 +359,3 @@ So, off you go to enjoy some of your multi table inheritance goodness.
 blogLater
 
 Mikel
-

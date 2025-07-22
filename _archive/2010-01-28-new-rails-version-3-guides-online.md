@@ -2,7 +2,7 @@
 title: "New Rails Version 3.0 Guides Online"
 author: Mikel Lindsaar
 date: 2010-01-28
-layout: post
+layout: home
 redirect_from:
   - /2010/1/28/new-rails-version-3-guides-online
   - /2010/1/29/new-rails-version-3-guides-online
@@ -55,4 +55,3 @@ to the new API. Check back soon.
 blogLater
 
 Mikel
-

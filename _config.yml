@@ -12,11 +12,6 @@ gitbook_version:  3.2.3
 url:              'https://lindsaar.net'
 rss:              RSS
 
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
-
 # markdown render engine.
 markdown:         kramdown
 kramdown:

@@ -2,7 +2,7 @@
 title: "Tip #14 - Custom Error Messages in Validations"
 author: Mikel Lindsaar
 date: 2008-04-22
-layout: post
+layout: home
 redirect_from:
   - /2008/4/22/tip-14-custom-error-messages-in-validations
 ---
@@ -70,4 +70,3 @@ Much better!
 blogLater
 
 Mikel
-

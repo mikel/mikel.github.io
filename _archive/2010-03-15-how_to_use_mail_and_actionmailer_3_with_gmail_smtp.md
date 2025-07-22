@@ -2,7 +2,7 @@
 title: "How to use Mail / ActionMailer 3 with GMail SMTP"
 author: Mikel Lindsaar
 date: 2010-03-15
-layout: post
+layout: home
 redirect_from:
   - /2010/3/15/how_to_use_mail_and_actionmailer_3_with_gmail_smtp
 ---
@@ -122,4 +122,3 @@ Hope that helps!
 blogLater
 
 Mikel
-

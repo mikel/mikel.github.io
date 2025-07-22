@@ -2,7 +2,7 @@
 title: "How to reset a sequence with PostgreSQL"
 author: Mikel Lindsaar
 date: 2008-11-02
-layout: post
+layout: home
 redirect_from:
   - /2008/11/2/how-to-reset-a-sequence-with-postgresql
 ---
@@ -26,4 +26,3 @@ instead and you will be a lot more happier.
 blogLater
 
 Mikel
-

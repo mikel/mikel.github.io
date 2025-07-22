@@ -2,7 +2,7 @@
 title: "Rapid Development of Mostly Static Websites with Rails and Mephisto"
 author: Mikel Lindsaar
 date: 2007-12-10
-layout: post
+layout: home
 redirect_from:
   - /2007/12/10/rapid-development-of-mostly-static-websites-with-rails-and-mephisto
 ---
@@ -159,7 +159,7 @@ with something like:
 ``` shell
 Thank you for trying out Mephisto 0.7.3: Noh-Varr Edition!
 
-Now you can start the application with script/server, visit 
+Now you can start the application with script/server, visit
 http://mydomain.com/admin, and log in with admin / test.
 
 For help, visit the following:
@@ -282,7 +282,7 @@ ServerAlias dev.domain2.org dev.domain3.org
 RewriteEngine On
 
 #RewriteLog /Users/mikel/dfa_rewrite.log
-#RewriteLogLevel 8  
+#RewriteLogLevel 8
 
 # Check for maintenance file and redirect all requests
 RewriteCond %{DOCUMENT_ROOT}/system/maintenance.html -f
@@ -442,7 +442,7 @@ uncomment:
 
 ``` shell
 RewriteLog /Users/mikel/debug_rewrite.log
-RewriteLogLevel 8  
+RewriteLogLevel 8
 ```
 
 Of course, change /Users/mikel/ to your username for this to work. Stop
@@ -467,4 +467,3 @@ how to deploy it all to a production server.
 blogLater
 
 Mikel
-

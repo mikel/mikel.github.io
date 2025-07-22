@@ -2,7 +2,7 @@
 title: "DECCA Driving Day "
 author: Mikel Lindsaar
 date: 2010-01-01
-layout: post
+layout: home
 redirect_from:
   - /2010/1/1/decca-driving-day
 ---
@@ -177,4 +177,3 @@ I hope to see you there!
 blogLater
 
 Mikel
-

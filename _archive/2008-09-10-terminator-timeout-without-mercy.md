@@ -2,7 +2,7 @@
 title: "Terminator - Timeout without Mercy"
 author: Mikel Lindsaar
 date: 2008-09-10
-layout: post
+layout: home
 redirect_from:
   - /2008/9/10/terminator-timeout-without-mercy
 ---
@@ -136,4 +136,3 @@ Besides, how many other gems do you know that have the method
 blogLater
 
 Mikel
-

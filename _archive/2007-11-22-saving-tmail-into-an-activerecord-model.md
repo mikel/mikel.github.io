@@ -2,7 +2,7 @@
 title: "Saving TMail into an ActiveRecord model"
 author: Mikel Lindsaar
 date: 2007-11-22
-layout: post
+layout: home
 redirect_from:
   - /2007/11/22/saving-tmail-into-an-activerecord-model
 ---
@@ -59,7 +59,7 @@ But now, what if I call:
 ``` ruby
 mail.save
 mail = Email.find(:first)
-mail.email.class #=> String 
+mail.email.class #=> String
 ```
 
 So that doesn't work, what I want is to be able to save that object to a
@@ -107,4 +107,3 @@ Pretty handy!
 blogLater
 
 Mikel
-

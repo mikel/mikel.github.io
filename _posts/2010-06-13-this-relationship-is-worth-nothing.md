@@ -2,7 +2,7 @@
 title: "This Relationship is Worth Nothing "
 author: Mikel Lindsaar
 date: 2010-06-13
-layout: post
+layout: home
 redirect_from:
   - /2010/6/13/this-relationship-is-worth-nothing
 ---
@@ -61,4 +61,3 @@ And that is not good business sense.
 blogLater
 
 Mikel
-

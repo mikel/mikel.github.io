@@ -2,7 +2,7 @@
 title: "Renaming a controller and redirection in Rails 3"
 author: Mikel Lindsaar
 date: 2010-10-02
-layout: post
+layout: home
 redirect_from:
   - /2010/10/2/renaming_a_controller_and_redirection_in_rails_3
   - /2010/9/30/renaming_a_controller_and_redirection_in_rails_3
@@ -36,7 +36,7 @@ module TellThemWhen
     def self.call(env)
       destination  = "#{env['PATH_INFO']}".sub('instant', 'notification')
       destination << "?#{env['QUERY_STRING']}" unless env['QUERY_STRING'].empty?
-      [301, {'Location' => destination}, ['Instants are now called notifications']] 
+      [301, {'Location' => destination}, ['Instants are now called notifications']]
     end
   end
 end
@@ -80,4 +80,3 @@ Sweet.
 blogLater
 
 Mikel
-

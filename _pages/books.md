@@ -3,7 +3,7 @@ title: Books
 author: Mikel Lindsaar
 date: 2024-03-15
 category: Books
-layout: post
+layout: home
 permalink: /books
 ---
 

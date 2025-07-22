@@ -2,7 +2,7 @@
 title: "Bundler - uninitialized constant ActionController "
 author: Mikel Lindsaar
 date: 2010-04-01
-layout: post
+layout: home
 redirect_from:
   - /2010/4/1/bundler_uninitialized_constant_ActionController
 ---
@@ -87,4 +87,3 @@ of these lurking, you will have to work out which ones to put into the
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Getting Rails 2.0 and MS SQL Server Talking"
 author: Mikel Lindsaar
 date: 2007-12-16
-layout: post
+layout: home
 redirect_from:
   - /2007/12/16/getting-rails-2-0-and-ms-sql-server-talking
 ---
@@ -23,7 +23,7 @@ After installing this, I did the following:
 
 ``` shell
 c:\> gem install rails
-c:\> gem install activerecord-sqlserver-adapter 
+c:\> gem install activerecord-sqlserver-adapter
 --source=http://gems.rubyonrails.org
 ```
 
@@ -48,4 +48,3 @@ installed.
 Anyway, thought y'all might like to know.
 
 Mikel
-

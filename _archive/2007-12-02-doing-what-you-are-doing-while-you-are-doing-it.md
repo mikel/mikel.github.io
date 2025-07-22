@@ -2,7 +2,7 @@
 title: "Doing what you are doing while you are doing it"
 author: Mikel Lindsaar
 date: 2007-12-02
-layout: post
+layout: home
 redirect_from:
   - /2007/12/2/doing-what-you-are-doing-while-you-are-doing-it
 ---
@@ -130,4 +130,3 @@ Work.
 blogLater
 
 Mikel
-

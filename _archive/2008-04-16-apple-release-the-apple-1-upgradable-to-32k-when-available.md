@@ -2,7 +2,7 @@
 title: "Apple Release the APPLE-1 - Upgradable to 32k (When Available)"
 author: Mikel Lindsaar
 date: 2008-04-16
-layout: post
+layout: home
 redirect_from:
   - /2008/4/16/apple-release-the-apple-1-upgradable-to-32k-when-available
 ---
@@ -19,4 +19,3 @@ Check it out!
 blogLater
 
 Mikel
-

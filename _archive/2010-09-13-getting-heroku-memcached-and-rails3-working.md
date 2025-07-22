@@ -2,7 +2,7 @@
 title: "Getting Heroku, memcached and Rails 3 working"
 author: Mikel Lindsaar
 date: 2010-09-13
-layout: post
+layout: home
 redirect_from:
   - /2010/9/13/getting-heroku-memcached-and-rails3-working
 ---
@@ -37,4 +37,3 @@ Told you it was short.
 blogLater
 
 Mikel
-

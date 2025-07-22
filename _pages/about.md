@@ -3,7 +3,7 @@ title: About
 author: Mikel Lindsaar
 date: 2022-02-04
 category: Random
-layout: post
+layout: home
 permalink: /about
 redirect_from:
   - /about_mikel

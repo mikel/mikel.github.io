@@ -2,7 +2,7 @@
 title: "Always getting an invalid authenticity token error"
 author: Mikel Lindsaar
 date: 2009-05-02
-layout: post
+layout: home
 redirect_from:
   - /2009/5/2/always-getting-an-invalid-authenticity-token-error
 ---
@@ -65,4 +65,3 @@ first place) and shouldn't be a problem. If you are using ANY other\
 how to get SWFUpload to play nicely with Rails, an overview with links\
 to the appropriate posts can be found
 [here.](http://groups.google.com/group/rubyonrails-talk/browse_thread/thread/45f70281a5992fa7)
-

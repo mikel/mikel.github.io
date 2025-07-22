@@ -2,7 +2,7 @@
 title: "undefined local variable or method `version_requirements'"
 author: Mikel Lindsaar
 date: 2011-06-29
-layout: post
+layout: home
 redirect_from:
   - /2011/6/29/undefined-local-variable-or-method-version_requirements
   - /2011/6/30/undefined-local-variable-or-method-version_requirements
@@ -35,4 +35,3 @@ Rails::Initializer.run do |config|
 It's a hack, it might break with later and later releases of RubyGems.
 But it allowed me to get a 2.3.x Rails app running on a fairly current
 rubygems.
-

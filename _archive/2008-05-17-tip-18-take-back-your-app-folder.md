@@ -2,7 +2,7 @@
 title: "Tip #18 - Take Back Your App Folder!"
 author: Mikel Lindsaar
 date: 2008-05-17
-layout: post
+layout: home
 redirect_from:
   - /2008/5/17/tip-18-take-back-your-app-folder
 ---
@@ -76,4 +76,3 @@ be in specs/lib/filename_spec.rb and this will all work as well.
 blogLater
 
 Mikel
-

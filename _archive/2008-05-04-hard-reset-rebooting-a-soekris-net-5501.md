@@ -2,7 +2,7 @@
 title: "Hard Reset / Rebooting a Soekris Net 5501"
 author: Mikel Lindsaar
 date: 2008-05-04
-layout: post
+layout: home
 redirect_from:
   - /2008/5/4/hard-reset-rebooting-a-soekris-net-5501
 ---
@@ -33,4 +33,3 @@ time for the box to boot.
 blogLater
 
 Mikel
-

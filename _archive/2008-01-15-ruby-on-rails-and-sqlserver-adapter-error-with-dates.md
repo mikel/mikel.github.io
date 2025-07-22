@@ -2,7 +2,7 @@
 title: "Ruby on Rails and SQLServer Adapter Error With Dates"
 author: Mikel Lindsaar
 date: 2008-01-15
-layout: post
+layout: home
 redirect_from:
   - /2008/1/15/ruby-on-rails-and-sqlserver-adapter-error-with-dates
 ---
@@ -27,15 +27,15 @@ but for the impatient, open up your text editor, and go to lines 105 to
 change:
 
 ``` ruby
-if value.is_a?(DateTime) 
-  return Time.mktime(value.year, value.mon, value.day, value.hour,.... 
+if value.is_a?(DateTime)
+  return Time.mktime(value.year, value.mon, value.day, value.hour,....
 end
 ```
 
 to:
 
 ``` ruby
-if value.is_a?(DateTime) 
+if value.is_a?(DateTime)
   return DateTime.new(value.year, value.mon, value.day, value.hour,....
 end
 ```
@@ -45,4 +45,3 @@ And all should be good!
 Good luck.
 
 Mikel
-

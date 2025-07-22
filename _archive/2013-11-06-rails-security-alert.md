@@ -2,7 +2,7 @@
 title: "Rails Security Alert"
 author: Mikel Lindsaar
 date: 2013-11-06
-layout: post
+layout: home
 redirect_from:
   - /2013/11/6/rails-security-alert
   - /2013/1/10/rails-security-alert
@@ -14,6 +14,3 @@ notes](https://groups.google.com/forum/?fromgroups=#!topic/rubyonrails-security/
 if you don't, then you can get an [fixed price upgrade
 service](http://reinteractive.net/service/secure) from reInteractive.
 But whatever you do, do it soon.
-
-
-

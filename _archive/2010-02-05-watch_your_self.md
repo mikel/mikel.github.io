@@ -2,7 +2,7 @@
 title: "Watch your self "
 author: Mikel Lindsaar
 date: 2010-02-05
-layout: post
+layout: home
 redirect_from:
   - /2010/2/5/watch_your_self
 ---
@@ -144,4 +144,3 @@ Which is arguably less pretty, but you are not going to get caught out.
 blogLater
 
 Mikel
-

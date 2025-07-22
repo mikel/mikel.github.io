@@ -2,7 +2,7 @@
 title: "Why Bundler?"
 author: Mikel Lindsaar
 date: 2010-09-10
-layout: post
+layout: home
 redirect_from:
   - /2010/9/10/why_bundler
 ---
@@ -45,4 +45,3 @@ Treat it like the Sinatra app examples on the Gembundler website.
 blogLater
 
 Mikel
-

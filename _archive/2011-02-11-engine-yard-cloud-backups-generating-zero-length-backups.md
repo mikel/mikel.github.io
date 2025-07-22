@@ -2,7 +2,7 @@
 title: "Engine Yard Cloud Backups Generating Zero Length Backups"
 author: Mikel Lindsaar
 date: 2011-02-11
-layout: post
+layout: home
 redirect_from:
   - /2011/2/11/engine-yard-cloud-backups-generating-zero-length-backups
 ---
@@ -36,4 +36,3 @@ MySQL has a similar simple command to handle this issue.
 blogLater
 
 Mikel
-

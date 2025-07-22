@@ -2,7 +2,7 @@
 title: "Vector magic"
 author: Mikel Lindsaar
 date: 2007-11-15
-layout: post
+layout: home
 redirect_from:
   - /2007/11/15/vector-magic
 ---
@@ -36,4 +36,3 @@ Go check it out!
 blogLater
 
 Mikel
-

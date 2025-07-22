@@ -2,7 +2,7 @@
 title: "Bundle Me Some Sanity"
 author: Mikel Lindsaar
 date: 2010-04-01
-layout: post
+layout: home
 redirect_from:
   - /2010/4/1/bundle_me_some_sanity
   - /2010/3/31/bundle_me_some_sanity
@@ -106,4 +106,3 @@ site](http://rvm.beginrescueend.com/)
 blogLater
 
 Mikel
-

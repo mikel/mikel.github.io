@@ -2,7 +2,7 @@
 title: "TMail 1.2.0 Released!"
 author: Mikel Lindsaar
 date: 2007-12-01
-layout: post
+layout: home
 redirect_from:
   - /2007/12/1/tmail-1-2-0-released
 ---
@@ -47,4 +47,3 @@ I hope you all can use it for good as well :)
 blogLater
 
 Mikel
-

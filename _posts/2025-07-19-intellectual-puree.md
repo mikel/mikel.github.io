@@ -2,7 +2,7 @@
 title: "Intellectual Purée"
 author: Mikel Lindsaar
 date: 2025-07-19
-layout: post
+layout: home
 ---
 I’ve started writing again.
 

@@ -2,7 +2,7 @@
 title: "Tip #3 - Sexy Date Select Fields!"
 author: Mikel Lindsaar
 date: 2008-04-12
-layout: post
+layout: home
 redirect_from:
   - /2008/4/12/tip-3-sexy-date-select-fields
 ---
@@ -67,4 +67,3 @@ will select the right date when you save the form.
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Tip #15 - Read Other People's Code"
 author: Mikel Lindsaar
 date: 2008-04-25
-layout: post
+layout: home
 redirect_from:
   - /2008/4/25/tip-15-read-other-people-s-code
 ---
@@ -26,4 +26,3 @@ to make an app.
 Anyway, happy hunting!
 
 Mikel
-

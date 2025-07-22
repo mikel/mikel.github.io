@@ -2,7 +2,7 @@
 title: "Read Agile Web Development with Rails again!"
 author: Mikel Lindsaar
 date: 2007-11-23
-layout: post
+layout: home
 redirect_from:
   - /2007/11/23/read-agile-web-development-with-rails-again
 ---
@@ -38,4 +38,3 @@ Anyway,
 blogLater
 
 Mikel
-

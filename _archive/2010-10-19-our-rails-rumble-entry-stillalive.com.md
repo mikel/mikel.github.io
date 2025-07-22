@@ -2,7 +2,7 @@
 title: "Our Rails Rumble Entry - StillAlive.com"
 author: Mikel Lindsaar
 date: 2010-10-19
-layout: post
+layout: home
 redirect_from:
   - /2010/10/19/our-rails-rumble-entry-stillalive.com
 ---
@@ -39,4 +39,3 @@ Ruby on Rails truly is an awesome development environment.
 Please try it out and let me know what you think.
 
 Mikel
-

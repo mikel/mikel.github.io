@@ -2,7 +2,7 @@
 title: "Where to start maintaining?"
 author: Mikel Lindsaar
 date: 2007-11-17
-layout: post
+layout: home
 redirect_from:
   - /2007/11/17/where-to-start-maintaining
 ---
@@ -70,4 +70,3 @@ tips and hints on how to document.
 blogLater
 
 Mikel
-

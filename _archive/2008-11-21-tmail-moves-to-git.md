@@ -2,7 +2,7 @@
 title: "TMail Moves to GIT"
 author: Mikel Lindsaar
 date: 2008-11-21
-layout: post
+layout: home
 redirect_from:
   - /2008/11/21/tmail-moves-to-git
 ---
@@ -15,4 +15,3 @@ You can [see it here](http://github.com/mikel/tmail/tree/master)
 Please fork / patch / follow / help out :)
 
 Mikel
-

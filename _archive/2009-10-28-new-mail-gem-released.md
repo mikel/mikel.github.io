@@ -2,7 +2,7 @@
 title: "New Mail gem released"
 author: Mikel Lindsaar
 date: 2009-10-28
-layout: post
+layout: home
 redirect_from:
   - /2009/10/28/new-mail-gem-released
 ---
@@ -27,4 +27,3 @@ So dive in with a "gem install mail", you can find the README on how to
 do all the basic stuff on GitHub.
 
 Mikel
-

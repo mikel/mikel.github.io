@@ -2,7 +2,7 @@
 title: "Tip #19 - Raaums Hints Rock"
 author: Mikel Lindsaar
 date: 2008-05-26
-layout: post
+layout: home
 redirect_from:
   - /2008/5/26/tip-19-raaums-hints-rock
 ---
@@ -19,4 +19,3 @@ on Rails Reader`</a>`{=html}
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "A new protocol for social interaction "
 author: Mikel Lindsaar
 date: 2010-09-18
-layout: post
+layout: home
 redirect_from:
   - /2010/9/18/a_new_protocol_for_social_interaction
   - /2010/9/19/a_new_protocol_for_social_interaction
@@ -251,4 +251,3 @@ Simple really.
 blogLater
 
 Mikel Lindsaar
-

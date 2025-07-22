@@ -2,7 +2,7 @@
 title: "Mail gem version 2 released"
 author: Mikel Lindsaar
 date: 2010-01-22
-layout: post
+layout: home
 redirect_from:
   - /2010/1/22/mail-gem-version-2-released
   - /2010/1/23/mail-gem-version-2-released
@@ -158,7 +158,7 @@ addresses directly from address fields:
 
 ``` fixed
 mail = Mail.new("To: Mikel Lindsaar <mikel@test.lindsaar.net>")
-mail[:to].addresses   
+mail[:to].addresses
 #=> ["mikel@test.lindsaar.net"]
 mail[:to].formatted
 #=> ["Mikel Lindsaar <mikel@test.lindsaar.net>"]
@@ -183,4 +183,3 @@ Happy Mailing!
 blogLater
 
 Mikel
-

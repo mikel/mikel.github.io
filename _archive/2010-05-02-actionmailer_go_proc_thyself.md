@@ -2,7 +2,7 @@
 title: "Action Mailer, go Proc thyself"
 author: Mikel Lindsaar
 date: 2010-05-02
-layout: post
+layout: home
 redirect_from:
   - /2010/5/2/actionmailer_go_proc_thyself
   - /2010/5/3/actionmailer_go_proc_thyself
@@ -59,4 +59,3 @@ Enjoy!
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Tip #12 - HTML and HTTP are Your Friends"
 author: Mikel Lindsaar
 date: 2008-04-20
-layout: post
+layout: home
 redirect_from:
   - /2008/4/20/tip-12-html-and-http-are-your-friends
 ---
@@ -127,4 +127,3 @@ you spent a few hours looking over how that form tag really works.
 blogLater
 
 Mikel
-

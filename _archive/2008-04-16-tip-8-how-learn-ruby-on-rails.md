@@ -2,7 +2,7 @@
 title: "Tip #8 - Must Know Facets of Ruby on Rails"
 author: Mikel Lindsaar
 date: 2008-04-16
-layout: post
+layout: home
 redirect_from:
   - /2008/4/16/tip-8-how-learn-ruby-on-rails
 ---
@@ -76,4 +76,3 @@ Theory](https://lindsaar.net/2008/4/17/tip-9-learn-programming-theory)
 blogLater
 
 Mikel
-

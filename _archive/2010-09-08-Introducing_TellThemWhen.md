@@ -2,7 +2,7 @@
 title: "Introducing TellThemWhen"
 author: Mikel Lindsaar
 date: 2010-09-08
-layout: post
+layout: home
 redirect_from:
   - /2010/9/8/Introducing_TellThemWhen
   - /2010/9/9/Introducing_TellThemWhen
@@ -50,4 +50,3 @@ tuned for more features to come!
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Stripping dollar signs and commas from a string"
 author: Mikel Lindsaar
 date: 2010-05-14
-layout: post
+layout: home
 redirect_from:
   - /2010/5/14/stripping-dollar-signs-and-commas-from-a-string
 ---
@@ -35,4 +35,3 @@ Ahhh... pure Ruby bliss.
 blogLater
 
 Mikel
-

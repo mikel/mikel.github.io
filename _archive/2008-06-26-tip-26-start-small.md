@@ -2,7 +2,7 @@
 title: "Tip #26 - Start Small"
 author: Mikel Lindsaar
 date: 2008-06-26
-layout: post
+layout: home
 redirect_from:
   - /2008/6/26/tip-26-start-small
   - /2008/6/24/tip-26-start-small
@@ -66,7 +66,7 @@ specing it from the ground up, with minimal code generation.
 Something like this:
 
 ``` sh
-baci:test mikel$ ./script/generate rspec_controller welcome 
+baci:test mikel$ ./script/generate rspec_controller welcome
       exists  app/controllers/
       exists  app/helpers/
       create  app/views/welcome
@@ -141,4 +141,3 @@ result in more hair loss than passing specs.
 blogLater
 
 Mikel
-

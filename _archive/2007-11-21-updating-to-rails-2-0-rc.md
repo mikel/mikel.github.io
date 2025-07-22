@@ -2,7 +2,7 @@
 title: "Updating to Rails 2.0 RC"
 author: Mikel Lindsaar
 date: 2007-11-21
-layout: post
+layout: home
 redirect_from:
   - /2007/11/21/updating-to-rails-2-0-rc
 ---
@@ -199,7 +199,7 @@ Once you have done this, you can start a console and you should see
 something like this:
 
 ``` shell
-baci:~/app_folder mikel$ ./script/console 
+baci:~/app_folder mikel$ ./script/console
 Loading development environment (Rails 2.0.1)
 >>
 ```
@@ -218,4 +218,3 @@ I hope that helps!
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "How to monitor a logged in professional"
 author: Mikel Lindsaar
 date: 2008-11-23
-layout: post
+layout: home
 redirect_from:
   - /2008/11/23/how-to-monitor-a-logged-in-professional
 ---
@@ -44,4 +44,3 @@ wondering 'what is he up to?'
 blogLater
 
 Mikel
-

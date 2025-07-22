@@ -2,7 +2,7 @@
 title: "TMail::Mail#create_forward now returns mail object"
 author: Mikel Lindsaar
 date: 2007-11-20
-layout: post
+layout: home
 redirect_from:
   - /2007/11/20/tmail-mail-create_forward-now-returns-mail-object
 ---
@@ -51,4 +51,3 @@ Pretty cool hey?
 blogLater
 
 Mikel
-

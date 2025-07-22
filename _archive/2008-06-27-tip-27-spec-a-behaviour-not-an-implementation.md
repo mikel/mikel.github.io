@@ -2,7 +2,7 @@
 title: "Tip #27 - Spec a Behaviour, Not an Implementation"
 author: Mikel Lindsaar
 date: 2008-06-27
-layout: post
+layout: home
 redirect_from:
   - /2008/6/27/tip-27-spec-a-behaviour-not-an-implementation
 ---
@@ -183,4 +183,3 @@ nothing more and you will find BDD a *lot* easier to get done.
 blogLater,
 
 Mikel
-

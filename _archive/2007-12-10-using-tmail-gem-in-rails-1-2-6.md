@@ -2,7 +2,7 @@
 title: "Using TMail Gem in Rails 1.2.6"
 author: Mikel Lindsaar
 date: 2007-12-10
-layout: post
+layout: home
 redirect_from:
   - /2007/12/10/using-tmail-gem-in-rails-1-2-6
 ---
@@ -40,7 +40,7 @@ baci:~/myapp/rails/vendor/actionmailer/ mikel$ rake test
 "/usr/local/lib/ruby/gems/1.8/gems/rake-0.7.3/lib/rake/rake_test_ldr.rb"
 "test/mail_helper_test.rb" "test/mail_render_test.rb"
 "test/mail_service_test.rb" "test/quoting_test.rb"
-"test/tmail_test.rb" "test/url_test.rb" 
+"test/tmail_test.rb" "test/url_test.rb"
 Loaded suite
 /usr/local/lib/ruby/gems/1.8/gems/rake-0.7.3/lib/rake/rake_test_loader
 Started
@@ -111,11 +111,11 @@ This time you should see something like this:
 ``` shell
 baci:~/blog/lindsaar/vendor/rails/actionmailer mikel$ rake test
 (in /Users/mikel/blog/lindsaar/vendor/rails/actionmailer)
-/usr/local/bin/ruby -Ilib:test 
-"/usr/local/lib/ruby/gems/1.8/gems/rake-0.7.3/lib/rake/rake_test_ldr.rb" 
+/usr/local/bin/ruby -Ilib:test
+"/usr/local/lib/ruby/gems/1.8/gems/rake-0.7.3/lib/rake/rake_test_ldr.rb"
 "test/mail_helper_test.rb" "test/mail_render_test.rb"
 "test/mail_service_test.rb" "test/quoting_test.rb" "test/tmail_test.rb"
-"test/url_test.rb" 
+"test/url_test.rb"
 Loaded suite
 /usr/local/lib/ruby/gems/1.8/gems/rake-0.7.3/lib/rake/rake_test_loader
 Started
@@ -123,7 +123,7 @@ Started
 Finished in 0.3203 seconds.
 
   1) Failure:
-test_decode_message_with_unquoted_atchar_in_header(ActionMailerTest) 
+test_decode_message_with_unquoted_atchar_in_header(ActionMailerTest)
 [./test/mail_service_test.rb:755]:
 <nil> expected to not be nil.
 
@@ -206,4 +206,3 @@ silence_warnings { TMail::Encoder.const_set("MAX_LINE_LEN", 200) }
 blogLater
 
 Mikel
-

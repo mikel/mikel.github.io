@@ -2,7 +2,7 @@
 title: "Handling Bounced Email with Ruby and TMail"
 author: Mikel Lindsaar
 date: 2008-03-24
-layout: post
+layout: home
 redirect_from:
   - /2008/3/24/handling-bounced-email-with-ruby-and-tmail
 ---
@@ -61,10 +61,10 @@ pulling the main data we need easy by doing:
 ``` ruby
 lines = delivery_status_part.body.split("\n")
 info = lines.inject({}) do |hash, line|
-  key, value = line.split(/:/) 
+  key, value = line.split(/:/)
   key.downcase! rescue nil
-  hash[key] = value.strip rescue nil 
-  hash 
+  hash[key] = value.strip rescue nil
+  hash
 end
 ```
 
@@ -102,4 +102,3 @@ Now you can do whatever you want to the message.
 blogLater
 
 Mikel
-

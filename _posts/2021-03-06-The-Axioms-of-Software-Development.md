@@ -2,7 +2,7 @@
 title: "The Axioms of Software Development"
 author: Mikel Lindsaar
 date: 2021-03-06
-layout: post
+layout: home
 ---
 
 Even though we have been developing software as an industry for the last 50 or so years, it still seems difficult to predict the outcome of a software project. That was obvious to me as I built my software company.

@@ -2,7 +2,7 @@
 title: "Spinning Circle of Death - Or How to Add Exception Handling to a Rails AJAX App"
 author: Mikel Lindsaar
 date: 2008-02-27
-layout: post
+layout: home
 redirect_from:
   - /2008/2/27/spinning-circle-of-death-or-how-to-add-exception-handling-to-a-rails-ajax-app
 ---
@@ -16,7 +16,7 @@ a failure callback... Basically, when you do an AJAX request in Rails,
 and you use one of the helpers, you can use call backs like this:
 
 ``` ruby
-<%= link_to_remote "Create New Task", 
+<%= link_to_remote "Create New Task",
                     :url => new_tasks_path,
                     :loading => %[$('MainSpinner').show();],
                     :success => %[$('MainSpinner').show();],
@@ -83,4 +83,3 @@ will have this basic error handling.
 blogLater
 
 Mikel
-

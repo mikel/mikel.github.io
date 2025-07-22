@@ -2,7 +2,7 @@
 title: "Tip #4 - Validating an Email Address with Ruby on Rails"
 author: Mikel Lindsaar
 date: 2008-04-14
-layout: post
+layout: home
 redirect_from:
   - /2008/4/14/tip-4-detecting-a-valid-email-address
 ---
@@ -143,4 +143,3 @@ Next tip =\> How to validate the address *fully* before accepting it...
 blogLater
 
 Mikel
-

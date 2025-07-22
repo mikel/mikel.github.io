@@ -2,7 +2,7 @@
 title: "Connecting Active Record to a Legacy Database with Stored Procedures"
 author: Mikel Lindsaar
 date: 2007-11-27
-layout: post
+layout: home
 redirect_from:
   - /2007/11/27/connecting-active-record-to-a-legacy-database-with-stored-procedures
   - /2007/11/26/connecting-active-record-to-a-legacy-database-with-stored-procedures
@@ -158,4 +158,3 @@ subject for another post.
 blogLater
 
 Mikel
-

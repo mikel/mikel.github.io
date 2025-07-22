@@ -2,7 +2,7 @@
 title: "Tip #6 - Validating the Domain of an Email Address with Ruby on Rails"
 author: Mikel Lindsaar
 date: 2008-04-15
-layout: post
+layout: home
 redirect_from:
   - /2008/4/15/tip-6-validating-the-domain-of-an-email-address-with-ruby-on-rails
   - /2008/4/13/tip-6-validating-the-domain-of-an-email-address-with-ruby-on-rails
@@ -118,4 +118,3 @@ for their verification email anyway, so who cares?
 blogLater
 
 Mikel
-

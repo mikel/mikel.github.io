@@ -2,7 +2,7 @@
 title: "Keep RSpec Current"
 author: Mikel Lindsaar
 date: 2007-11-16
-layout: post
+layout: home
 redirect_from:
   - /2007/11/16/keep-rspec-current
   - /2007/11/15/keep-rspec-current
@@ -124,4 +124,3 @@ Enjoy!
 blogLater
 
 Mikel
-

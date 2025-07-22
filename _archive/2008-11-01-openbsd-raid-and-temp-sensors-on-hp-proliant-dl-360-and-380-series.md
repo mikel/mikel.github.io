@@ -2,7 +2,7 @@
 title: "OpenBSD RAID and Temp Sensors on HP Proliant DL 360 and 380 Series"
 author: Mikel Lindsaar
 date: 2008-11-01
-layout: post
+layout: home
 redirect_from:
   - /2008/11/1/openbsd-raid-and-temp-sensors-on-hp-proliant-dl-360-and-380-series
 ---
@@ -96,4 +96,3 @@ To install the new kernel, do something like this:
 And then you can reboot to an IPMI enabled system.
 
 Enjoy.
-

@@ -2,7 +2,7 @@
 title: "Tip #13 - BangBang Transformations!"
 author: Mikel Lindsaar
 date: 2008-04-21
-layout: post
+layout: home
 redirect_from:
   - /2008/4/21/tip-13-bangbang-transformations
   - /2008/4/22/tip-13-bangbang-transformations
@@ -25,7 +25,7 @@ irb(main):001:0> user = "Mikel"
 => "Mikel"
 irb(main):002:0> if user
 irb(main):003:1>   puts "Hello #{user}"
-irb(main):004:1> end 
+irb(main):004:1> end
 Hello Mikel
 ```
 
@@ -91,4 +91,3 @@ Not bad for two exclamation marks!
 blogLater
 
 Mikel
-

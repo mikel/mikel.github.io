@@ -2,7 +2,7 @@
 title: "Installing RSpec for Rails 3"
 author: Mikel Lindsaar
 date: 2010-04-14
-layout: post
+layout: home
 redirect_from:
   - /2010/4/14/installing_rspec_for_rails_3
 ---
@@ -58,4 +58,3 @@ Nice.
 blogLater
 
 Mikel
-

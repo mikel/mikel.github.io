@@ -2,7 +2,7 @@
 title: "Contributing to TMail"
 author: Mikel Lindsaar
 date: 2008-01-18
-layout: post
+layout: home
 redirect_from:
   - /2008/1/18/contributing-to-tmail
   - /2008/1/16/contributing-to-tmail
@@ -29,4 +29,3 @@ So go forth, contribute, and enjoy!
 blogLater
 
 Mikel
-

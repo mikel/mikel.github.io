@@ -2,7 +2,7 @@
 title: "Mail now merged into ActionMailer"
 author: Mikel Lindsaar
 date: 2009-12-31
-layout: post
+layout: home
 redirect_from:
   - /2009/12/31/mail-in-actionmailer
   - /2009/12/30/mail-in-actionmailer
@@ -42,4 +42,3 @@ reports! Keep them coming!
 blogLater
 
 Mikel
-

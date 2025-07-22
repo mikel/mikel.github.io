@@ -2,7 +2,7 @@
 title: "Windows ipconfig does not show anything"
 author: Mikel Lindsaar
 date: 2009-01-05
-layout: post
+layout: home
 redirect_from:
   - /2009/1/5/windows-ipconfig-does-not-show-anything
 ---
@@ -32,4 +32,3 @@ Once I did this, the computer got it's DHCP address again quite happily.
 blogLater
 
 Mikel
-

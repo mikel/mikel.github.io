@@ -2,7 +2,7 @@
 title: "Tip #11 - Transact Your Migrations!"
 author: Mikel Lindsaar
 date: 2008-04-18
-layout: post
+layout: home
 redirect_from:
   - /2008/4/18/tip-11-transact-your-migrations
   - /2008/4/17/tip-11-transact-your-migrations
@@ -60,4 +60,3 @@ staging or development database :)
 blogLater
 
 Mikel
-

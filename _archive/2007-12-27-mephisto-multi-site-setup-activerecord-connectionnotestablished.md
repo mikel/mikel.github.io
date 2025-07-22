@@ -2,7 +2,7 @@
 title: "Mephisto Multi Site Setup - ActiveRecord:: ConnectionNotEstablished "
 author: Mikel Lindsaar
 date: 2007-12-27
-layout: post
+layout: home
 redirect_from:
   - /2007/12/27/mephisto-multi-site-setup-activerecord-connectionnotestablished
 ---
@@ -64,4 +64,3 @@ Now you should be good to go.
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "PostgreSQL on Windows - Startup Errors"
 author: Mikel Lindsaar
 date: 2008-04-15
-layout: post
+layout: home
 redirect_from:
   - /2008/4/15/postgresql-on-windows-startup-errors
 ---
@@ -25,4 +25,3 @@ Kill this task, and all will be good again.
 blogLater
 
 Mikel
-

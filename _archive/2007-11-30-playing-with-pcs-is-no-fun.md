@@ -2,7 +2,7 @@
 title: "Playing with PCs is no fun"
 author: Mikel Lindsaar
 date: 2007-11-30
-layout: post
+layout: home
 redirect_from:
   - /2007/11/30/playing-with-pcs-is-no-fun
 ---
@@ -46,4 +46,3 @@ needs to run... because I won't have to worry about virii... etc.
 Anyway... end of rant and back to my windows box.
 
 Mikel
-

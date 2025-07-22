@@ -2,7 +2,7 @@
 title: "Tip #17 - Struct Your Stuff!"
 author: Mikel Lindsaar
 date: 2008-05-12
-layout: post
+layout: home
 redirect_from:
   - /2008/5/12/tip-17-struct-your-stuff
 ---
@@ -127,4 +127,3 @@ them?
 blogLater
 
 Mikel
-

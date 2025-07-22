@@ -2,7 +2,7 @@
 title: "A New World of Resources"
 author: Mikel Lindsaar
 date: 2011-05-23
-layout: post
+layout: home
 redirect_from:
   - /2011/5/23/a-new-world-of-resources
 ---
@@ -79,4 +79,3 @@ I'll be posting updates here and on my twitter feed as we move forward.
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Tip #10 - The Ruby Language"
 author: Mikel Lindsaar
 date: 2008-04-17
-layout: post
+layout: home
 redirect_from:
   - /2008/4/17/tip-10-the-ruby-language
 ---
@@ -97,4 +97,3 @@ Friends](https://lindsaar.net/2008/4/21/tip-12-html-and-http-are-your-friends)
 blogLater
 
 Mikel
-

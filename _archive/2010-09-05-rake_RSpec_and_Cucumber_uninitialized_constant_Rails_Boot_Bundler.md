@@ -2,7 +2,7 @@
 title: "rake RSpec & Cucumber uninitialized constant Rails::Boot::Bundler"
 author: Mikel Lindsaar
 date: 2010-09-05
-layout: post
+layout: home
 redirect_from:
   - /2010/9/5/rake_RSpec_and_Cucumber_uninitialized_constant_Rails_Boot_Bundler
   - /2010/8/29/rake_RSpec_and_Cucumber_uninitialized_constant_Rails_Boot_Bundler
@@ -22,4 +22,3 @@ guide](http://gembundler.com/rails23.html)
 blogLater
 
 Mikel
-

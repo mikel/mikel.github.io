@@ -2,7 +2,7 @@
 title: "RSpec Story xhr problem "
 author: Mikel Lindsaar
 date: 2008-06-05
-layout: post
+layout: home
 redirect_from:
   - /2008/6/5/rspec-story-xhr-problem
 ---
@@ -43,4 +43,3 @@ method somewhere internally...
 Anyway, hope this helps!
 
 Mikel
-

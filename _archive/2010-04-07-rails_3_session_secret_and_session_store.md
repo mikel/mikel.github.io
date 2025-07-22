@@ -2,7 +2,7 @@
 title: "Rails 3 Session Secret and Session Store "
 author: Mikel Lindsaar
 date: 2010-04-07
-layout: post
+layout: home
 redirect_from:
   - /2010/4/7/rails_3_session_secret_and_session_store
 ---
@@ -50,4 +50,3 @@ from source control systems.
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Moving a website"
 author: Mikel Lindsaar
 date: 2007-11-20
-layout: post
+layout: home
 redirect_from:
   - /2007/11/20/moving-a-website
 ---
@@ -98,9 +98,9 @@ last on the chain (ie, it won't evaluate further.)
 OK, once that is all in there, go to your server prompt and type:
 
 ``` shell
-# apachectl2 configtest                    
+# apachectl2 configtest
 Syntax OK
-# apachectl2 graceful                      
+# apachectl2 graceful
 ```
 
 And then go ahead and browse to every one of the previous sites pages,
@@ -147,4 +147,3 @@ Hope that helps someone out there.
 blogLater
 
 Mikel
-

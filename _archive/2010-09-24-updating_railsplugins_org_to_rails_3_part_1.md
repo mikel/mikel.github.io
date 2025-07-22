@@ -2,7 +2,7 @@
 title: "Updating RailsPlugins.org to Rails 3 - Part 1"
 author: Mikel Lindsaar
 date: 2010-09-24
-layout: post
+layout: home
 redirect_from:
   - /2010/9/24/updating_railsplugins_org_to_rails_3_part_1
 ---
@@ -373,4 +373,3 @@ For that, I will leave until the next post.
 blogLater
 
 Mikel Lindsaar
-

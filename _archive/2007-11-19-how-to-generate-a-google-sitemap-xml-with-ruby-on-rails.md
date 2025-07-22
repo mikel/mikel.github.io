@@ -2,7 +2,7 @@
 title: "How to generate a Google sitemap.xml with Ruby on Rails "
 author: Mikel Lindsaar
 date: 2007-11-19
-layout: post
+layout: home
 redirect_from:
   - /2007/11/19/how-to-generate-a-google-sitemap-xml-with-ruby-on-rails
 ---
@@ -180,4 +180,3 @@ Pretty cool yeah?
 blogLater
 
 Mikel
-

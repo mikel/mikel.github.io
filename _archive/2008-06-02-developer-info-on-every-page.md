@@ -2,7 +2,7 @@
 title: "Tip #21 - Developer Info On Every Page"
 author: Mikel Lindsaar
 date: 2008-06-02
-layout: post
+layout: home
 redirect_from:
   - /2008/6/2/developer-info-on-every-page
 ---
@@ -29,24 +29,24 @@ First, make a file in your /app/views/common_partials folder called
 Into this, throw the following:
 
 ``` html
-<a id="DevInShow" href="#" 
+<a id="DevInShow" href="#"
    style="font-size:small;position:absolute;bottom:10px;right:10px"
    onclick="$('DevInfo').show(); $('DevInShow').hide();">
  Show Developer Info</a>
 
-<div id="DevInfo" 
+<div id="DevInfo"
      style="background:white;padding: 5px;
             border:10px solid red;position:absolute;
             top:0px;left:0px;display:none">
 
-  <a href="#" 
+  <a href="#"
      onclick="$('DevInfo').hide(); $('DevInShow').show();">
   Hide Developer Info</a>
 
   <h1>Params</h1>
   <pre>
     <%= params.to_yaml %>
-  
+
 
 ```<h1>
 ```
@@ -60,7 +60,7 @@ Session
 
 ```</pre>
 ```
-`<a href="#" 
+`<a href="#"
     onclick="$('DevInfo').hide();$('DevInShow').show();">`{=html}\
 Hide Developer Info`</a>`
 ```</div>
@@ -96,4 +96,3 @@ Enjoy!
 blogLater
 
 Mikel
-

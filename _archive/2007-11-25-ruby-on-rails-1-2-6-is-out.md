@@ -2,7 +2,7 @@
 title: "Ruby on Rails 1.2.6 is out"
 author: Mikel Lindsaar
 date: 2007-11-25
-layout: post
+layout: home
 redirect_from:
   - /2007/11/25/ruby-on-rails-1-2-6-is-out
 ---
@@ -17,4 +17,3 @@ There are two steps involved so be sure to read the blog for
 instructions.
 
 Mikel
-

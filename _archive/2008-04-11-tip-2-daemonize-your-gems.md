@@ -2,7 +2,7 @@
 title: "Tip #2 - Daemonize Your Gems!"
 author: Mikel Lindsaar
 date: 2008-04-11
-layout: post
+layout: home
 redirect_from:
   - /2008/4/11/tip-2-daemonize-your-gems
 ---
@@ -19,7 +19,7 @@ First, make sure you know where your rubygems "gem" script is by typing:
 Welcome to Darwin!
 baci:~ mikel$ which ruby
 /usr/local/bin/ruby
-baci:~ mikel$ which gem      
+baci:~ mikel$ which gem
 /usr/local/bin/gem
 baci:~ mikel$
 ```
@@ -32,7 +32,7 @@ If you have more than one copy of Ruby installed, you might want to make
 sure you are hitting the right version, so go ahead and check like this:
 
 ``` shell
-baci:~ mikel$ /usr/local/bin/ruby -v      
+baci:~ mikel$ /usr/local/bin/ruby -v
 ruby 1.8.6 (2008-03-03 patchlevel 114) [i686-darwin8.11.1]
 baci:~ mikel$ /usr/local/bin/gem -v
 1.1.0
@@ -78,7 +78,7 @@ correct location:
 
 ``` shell
 baci:~ mikel$ sudo mv rc.local /etc/
-baci:~ mikel$ sudo chown root:wheel /etc/rc.local 
+baci:~ mikel$ sudo chown root:wheel /etc/rc.local
 baci:~ mikel$ ls -al /etc/rc.*
 -rw-r--r--   1 root  wheel  1633 Jul  2  2006 /etc/rc.common
 -rw-r--r--   1 root  wheel   140 Apr 13 00:08 /etc/rc.local
@@ -121,4 +121,3 @@ task.
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Tip #9 - Learn Programming Theory"
 author: Mikel Lindsaar
 date: 2008-04-16
-layout: post
+layout: home
 redirect_from:
   - /2008/4/16/tip-9-learn-programming-theory
 ---
@@ -78,4 +78,3 @@ Language](https://lindsaar.net/2008/4/18/tip-10-the-ruby-language)
 blogLater
 
 Mikel
-

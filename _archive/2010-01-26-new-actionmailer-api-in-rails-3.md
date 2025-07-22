@@ -2,7 +2,7 @@
 title: "New ActionMailer API in Rails 3.0"
 author: Mikel Lindsaar
 date: 2010-01-26
-layout: post
+layout: home
 redirect_from:
   - /2010/1/26/new-actionmailer-api-in-rails-3
 ---
@@ -173,4 +173,3 @@ DSL wrapper between Mail and Action Controller.
 blogLater
 
 Mikel
-

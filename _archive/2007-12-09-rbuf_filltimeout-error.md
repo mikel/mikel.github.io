@@ -2,7 +2,7 @@
 title: "'rbuf_fill': execution expired (Timeout::Error)"
 author: Mikel Lindsaar
 date: 2007-12-09
-layout: post
+layout: home
 redirect_from:
   - /2007/12/9/rbuf_filltimeout-error
 ---
@@ -52,4 +52,3 @@ And all will be good again, error caught!
 blogLater
 
 Mikel
-

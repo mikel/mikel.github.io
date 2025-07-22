@@ -2,7 +2,7 @@
 title: "Mail and Bounced Emails"
 author: Mikel Lindsaar
 date: 2009-09-18
-layout: post
+layout: home
 redirect_from:
   - /2009/9/18/mail-and-bounced-emails
 ---
@@ -26,8 +26,8 @@ require 'mail'
 #=> failed
 @mail.error_status
 #=> 5.5.0
-@mail.diagnostic_code  
-#=> smtp;550 Requested action not taken: mailbox unavailable 
+@mail.diagnostic_code
+#=> smtp;550 Requested action not taken: mailbox unavailable
 @mail.retryable?
 #=> false
 ```
@@ -38,4 +38,3 @@ repository](http://www.github.com/mikel/mail/)
 Once we finish a few more points in the library, I'll release a gem.
 
 Mikel
-

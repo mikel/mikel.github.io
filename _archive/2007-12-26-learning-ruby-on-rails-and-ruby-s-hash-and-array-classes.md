@@ -2,7 +2,7 @@
 title: "Learning Ruby on Rails and Ruby's Hash and Array Classes"
 author: Mikel Lindsaar
 date: 2007-12-26
-layout: post
+layout: home
 redirect_from:
   - /2007/12/26/learning-ruby-on-rails-and-ruby-s-hash-and-array-classes
 ---
@@ -117,4 +117,3 @@ You see, finding out about Ruby's Hash and Arrays is good for you!
 blogLater
 
 Mikel
-

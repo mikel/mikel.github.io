@@ -2,7 +2,7 @@
 title: "ActionMailer ScreenCast and Article"
 author: Mikel Lindsaar
 date: 2010-04-24
-layout: post
+layout: home
 redirect_from:
   - /2010/4/24/actionmailer_screencast_and_article
 ---
@@ -24,4 +24,3 @@ Please feel free to let me know what you think in the comments here!
 blogLater
 
 Mikel
-

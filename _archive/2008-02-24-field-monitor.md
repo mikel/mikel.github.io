@@ -2,7 +2,7 @@
 title: "Javascript Field Monitor"
 author: Mikel Lindsaar
 date: 2008-02-24
-layout: post
+layout: home
 redirect_from:
   - /2008/2/24/field-monitor
 ---
@@ -107,4 +107,3 @@ Let me know if you find it useful!
 blogLater
 
 Mikel
-

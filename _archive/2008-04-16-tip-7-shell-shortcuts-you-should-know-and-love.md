@@ -2,7 +2,7 @@
 title: "Tip #7 - Shell Shortcuts You Should Know and Love"
 author: Mikel Lindsaar
 date: 2008-04-16
-layout: post
+layout: home
 redirect_from:
   - /2008/4/16/tip-7-shell-shortcuts-you-should-know-and-love
   - /2008/4/15/tip-7-shell-shortcuts-you-should-know-and-love
@@ -21,7 +21,7 @@ post_code:string home_phone:string work_phone:string mobile_phone:string
 email:string
 
 Couldn't find 'users' generator
-baci:~/rails_app mikel$ 
+baci:~/rails_app mikel$
 ```
 
 Grr... of course, you forgot to put the word "model" before the word
@@ -73,4 +73,3 @@ shells on Mac or \*nix
 blogLater
 
 Mikel
-

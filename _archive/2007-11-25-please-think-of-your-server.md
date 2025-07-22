@@ -2,7 +2,7 @@
 title: "Please, think of your server!"
 author: Mikel Lindsaar
 date: 2007-11-25
-layout: post
+layout: home
 redirect_from:
   - /2007/11/25/please-think-of-your-server
 ---
@@ -46,7 +46,7 @@ enlightened...
 Well, what if you did something as innocuous as:
 
 ``` ruby
-a = Product.find( :all, 
+a = Product.find( :all,
                   :conditions=>["category = ?", searched_for_category])
 ```
 
@@ -105,7 +105,7 @@ table, when all you really probably need is the item_id and the
 description and thumbnail, try this instead:
 
 ``` ruby
-a = Product.find( :all, 
+a = Product.find( :all,
                   :conditions=>["category = ?", searched_for_category],
                   :select => "product_id, description, thumbnail")
 ```
@@ -126,4 +126,3 @@ ActiveRecord. Feel free to add any below.
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Ruby on Rails Tips Page"
 author: Mikel Lindsaar
 date: 2009-12-22
-layout: post
+layout: home
 redirect_from:
   - /2009/12/22/rails-tips-page-online
 ---
@@ -18,4 +18,3 @@ next few months.
 Hope you enjoy it!
 
 Mikel
-

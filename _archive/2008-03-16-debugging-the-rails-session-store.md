@@ -2,7 +2,7 @@
 title: "Debugging the Rails Session Store"
 author: Mikel Lindsaar
 date: 2008-03-16
-layout: post
+layout: home
 redirect_from:
   - /2008/3/16/debugging-the-rails-session-store
 ---
@@ -81,4 +81,3 @@ In your view to output it in YAML format.
 blogLater
 
 Mikel
-

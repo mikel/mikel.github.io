@@ -2,7 +2,7 @@
 title: "Convert Visual Basic / Microsoft Long Integer Color Values to CSS RGB Format"
 author: Mikel Lindsaar
 date: 2008-06-16
-layout: post
+layout: home
 redirect_from:
   - /2008/6/16/convert-visual-basic-microsoft-long-integer-color-values-to-css-rgb-format
 ---
@@ -36,4 +36,3 @@ Any other good options? :)
 blogLater
 
 Mikel
-

@@ -1,0 +1,96 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Aptos, Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1.2rem;
+  color: rgb(40, 38, 45);
+}
+
+a {
+  color: rgb(62, 11, 190);
+}
+
+img {
+  max-width: 100%;
+}
+
+#wrapper {
+  max-width: 50rem;
+  margin: auto;
+  padding: 1rem;
+}
+
+section.whomai {
+  padding-top: 1rem;
+  text-align: center;
+  font-weight: light;
+}
+
+section.whomai p {
+  margin: 0.5rem 0;
+  padding: 0;
+}
+
+p.name {
+  color: rgb(112, 112, 112);
+  letter-spacing: 0.3rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+section.whomai img.circle-cropped {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+section.content {
+  padding: 1rem;
+  margin-top: 3rem;
+}
+
+section.content.home-index {
+  text-align: center;
+}
+
+section.content.home-index ul {
+  list-style: none;
+  line-height: 2rem;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  color: rgb(29, 21, 48);
+  font-size: 3rem;
+  margin: 1rem 0 3rem;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(29, 21, 48);
+  font-size: 1.5rem;
+  margin: 2rem 0 0.5rem;
+  text-align: center;
+}
+
+div.date {
+  color: rgb(112, 112, 112);
+  font-size: 1rem;
+  text-align: center;
+}
+
+section.footer {
+  padding-top: 1rem;
+  text-align: center;
+  font-weight: light;
+}
+
+p.summary {
+  color: rgb(112, 112, 112);
+  font-size: 1rem;
+}
+
+p.summary a {
+  color: rgb(112, 112, 112);
+}

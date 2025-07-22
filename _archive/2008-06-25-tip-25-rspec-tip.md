@@ -2,7 +2,7 @@
 title: "Tip #25 - Logging is your friend..."
 author: Mikel Lindsaar
 date: 2008-06-25
-layout: post
+layout: home
 redirect_from:
   - /2008/6/25/tip-25-rspec-tip
   - /2008/6/24/tip-25-rspec-tip
@@ -46,13 +46,13 @@ But in the logs, the truth appears:
 
 ``` sh
 Processing PeopleController#index (for 0.0.0.0 at 2008-06-25 09:15:28) [GET]
-  Session ID: 
+  Session ID:
   Parameters: {"action"=>"index", "controller"=>"people"}
 Filter chain halted as [:must_login] rendered_or_redirected.
 Completed in <snip> | 200 OK [http://test.host/people]
 
 Processing PeopleController#index (for 0.0.0.0 at 2008-06-25 09:15:28) [GET]
-  Session ID: 
+  Session ID:
   Parameters: {"action"=>"new", "controller"=>"people"}
 Filter chain halted as [:must_login] rendered_or_redirected.
 Completed in <snip> | 200 OK [http://test.host/people]
@@ -64,4 +64,3 @@ forgot to log in before we went to try and get the controller action.
 Simple example, I know... but aren't all the good tips simple?
 
 Mikel
-

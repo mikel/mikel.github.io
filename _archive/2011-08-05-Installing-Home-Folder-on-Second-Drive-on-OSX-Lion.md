@@ -2,7 +2,7 @@
 title: "Installing Home Folder on Second Drive on OSX Lion"
 author: Mikel Lindsaar
 date: 2011-08-05
-layout: post
+layout: home
 redirect_from:
   - /2011/8/5/Installing-Home-Folder-on-Second-Drive-on-OSX-Lion
   - /2011/8/6/Installing-Home-Folder-on-Second-Drive-on-OSX-Lion
@@ -98,4 +98,3 @@ And that's it!
 blogLater
 
 Mikel
-

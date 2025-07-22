@@ -2,7 +2,7 @@
 title: "If you're lazy and you know it write your specs!"
 author: Mikel Lindsaar
 date: 2010-04-04
-layout: post
+layout: home
 redirect_from:
   - /2010/4/4/if_youre_lazy_and_you_know_it_write_your_specs
 ---
@@ -96,4 +96,3 @@ boss / life) countless hours of frustration.
 blogLater
 
 Mikel
-

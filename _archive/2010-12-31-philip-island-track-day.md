@@ -2,7 +2,7 @@
 title: "Philip Island Track Day"
 author: Mikel Lindsaar
 date: 2010-12-31
-layout: post
+layout: home
 redirect_from:
   - /2010/12/31/philip-island-track-day
   - /2010/1/1/philip-island-track-day
@@ -69,4 +69,3 @@ comparing our times here, because, really, at the end of the day, it's
 not about who wins or looses right?
 
 Mikel Lindsaar
-

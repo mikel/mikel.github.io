@@ -2,7 +2,7 @@
 title: "TMail 1.2.0 is on the horizon"
 author: Mikel Lindsaar
 date: 2007-11-30
-layout: post
+layout: home
 redirect_from:
   - /2007/11/30/tmail-1-2-0-is-on-the-horizon
 ---
@@ -24,4 +24,3 @@ But document we must.
 Anyway, I'll keep you posted.
 
 Mikel
-

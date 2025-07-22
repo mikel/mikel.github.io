@@ -2,7 +2,7 @@
 title: "You know you are Australian if..."
 author: Mikel Lindsaar
 date: 2008-01-28
-layout: post
+layout: home
 redirect_from:
   - /2008/1/28/you-know-you-are-australian-if
 ---
@@ -90,4 +90,3 @@ You know you're Australian if √¢‚Ç¨¬¶
     here and overseas, realising that only they will understand.
 
 Happy Australia Day.
-

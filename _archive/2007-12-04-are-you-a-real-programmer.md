@@ -2,7 +2,7 @@
 title: "Are you a real programmer?"
 author: Mikel Lindsaar
 date: 2007-12-04
-layout: post
+layout: home
 redirect_from:
   - /2007/12/4/are-you-a-real-programmer
 ---
@@ -91,4 +91,3 @@ project (or start one of your own!) You will not regret it.
 blogLater
 
 Mikel
-

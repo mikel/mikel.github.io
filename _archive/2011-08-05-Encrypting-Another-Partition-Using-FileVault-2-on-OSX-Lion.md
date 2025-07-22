@@ -2,7 +2,7 @@
 title: "Encrypting Another Partition Using FileVault 2 on OSX Lion"
 author: Mikel Lindsaar
 date: 2011-08-05
-layout: post
+layout: home
 redirect_from:
   - /2011/8/5/Encrypting-Another-Partition-Using-FileVault-2-on-OSX-Lion
   - /2011/8/6/Encrypting-Another-Partition-Using-FileVault-2-on-OSX-Lion
@@ -96,4 +96,3 @@ assuming you have FileVault 2 turned on for the main boot partition.
 blogLater
 
 Mikel
-

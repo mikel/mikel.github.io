@@ -2,7 +2,7 @@
 title: "Interesting method definition in ruby"
 author: Mikel Lindsaar
 date: 2007-11-18
-layout: post
+layout: home
 redirect_from:
   - /2007/11/18/interesting-method-definition-in-ruby
 ---
@@ -37,4 +37,3 @@ send('mime_version=', "1", "2")
 ```
 
 Got any others?
-

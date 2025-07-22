@@ -2,7 +2,7 @@
 title: "TMail Is Growing"
 author: Mikel Lindsaar
 date: 2007-11-13
-layout: post
+layout: home
 redirect_from:
   - /2007/11/13/tmail-is-growing
 ---
@@ -52,4 +52,3 @@ Let me know if you have anything you need or want!
 blogLater
 
 Mikel
-

@@ -2,7 +2,7 @@
 title: "Tip #1 - Subscribe to the Railscasts"
 author: Mikel Lindsaar
 date: 2008-04-10
-layout: post
+layout: home
 redirect_from:
   - /2008/4/10/tip-1-subscribe-to-the-railscasts
 ---
@@ -40,4 +40,3 @@ So there you go Ryan, tip one (of at least six :)
 Regards
 
 Mikel
-

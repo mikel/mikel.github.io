@@ -2,7 +2,7 @@
 title: "Feedburner Site Stats on Mephisto"
 author: Mikel Lindsaar
 date: 2007-12-09
-layout: post
+layout: home
 redirect_from:
   - /2007/12/9/feedburner-site-stats-on-mephisto
 ---
@@ -44,4 +44,3 @@ I like Mephisto :)
 blogLater
 
 Mikel
-

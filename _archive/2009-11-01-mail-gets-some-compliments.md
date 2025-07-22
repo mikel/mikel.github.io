@@ -2,7 +2,7 @@
 title: "Mail gets some compliments!"
 author: Mikel Lindsaar
 date: 2009-11-01
-layout: post
+layout: home
 redirect_from:
   - /2009/11/1/mail-gets-some-compliments
 ---
@@ -32,4 +32,3 @@ github, compared to the few dozen on TMail.
 Thanks for all your comments, keep them and your patches coming!
 
 Mikel
-

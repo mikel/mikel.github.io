@@ -2,7 +2,7 @@
 title: "Tip #23 - Know your fundamentals"
 author: Mikel Lindsaar
 date: 2008-06-20
-layout: post
+layout: home
 redirect_from:
   - /2008/6/20/tip-23-know-your-fundamentals
 ---
@@ -68,4 +68,3 @@ Nerds](http://philip.greenspun.com/sql/) and have a good read.
 blogLater
 
 Mikel
-
