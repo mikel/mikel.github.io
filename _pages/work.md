@@ -3,7 +3,7 @@ layout: home
 title: Work
 ---
 
-I am currently the founder and CEO of three comapnies [StoreConnect](https://getstoreconnect.com/), [MetaPulse](https://metapulse.com/) and [reinteractive](https://reinteractive.com/).
+I am currently the founder and CEO of three companies [StoreConnect](https://getstoreconnect.com/), [MetaPulse](https://metapulse.com/) and [reinteractive](https://reinteractive.com/).
 
 I previously founded [StatusHub](https://statushub.io) and [StillAlive.com](https://stillalive.com), [enlight.training](https://enlight.training) and co-founded [Flood.IO](https://flood.io), all with successful exits.
 
