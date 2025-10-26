@@ -29,11 +29,15 @@ section.whomai p {
   padding: 0;
 }
 
-p.name {
+h1.name {
   color: rgb(112, 112, 112);
   letter-spacing: 0.3rem;
   font-size: 1rem;
   text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(26, 19, 43);
 }
 
 section.whomai img.circle-cropped {
@@ -61,14 +65,12 @@ section.content.home-index ul {
 }
 
 h1 {
-  color: rgb(29, 21, 48);
   font-size: 3rem;
   margin: 1rem 0 3rem;
   text-align: center;
 }
 
 h2 {
-  color: rgb(29, 21, 48);
   font-size: 1.5rem;
   margin: 2rem 0 0.5rem;
   text-align: center;
