@@ -39,7 +39,6 @@ class: home-index
 * [Keeping it Human](https://www.youtube.com/watch?v=nKb0cMNAIXM)
 * [AMA with Mikel Lindsaar](https://www.youtube.com/watch?v=rJR21ZVAGZk)
 
-
 ## TV Interviews:
 
 * [CGTN America](/interviews/cgtn-2024-01-23)
