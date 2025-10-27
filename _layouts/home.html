@@ -37,7 +37,9 @@
                         <div class="date">{{ page.date | date: "%-d %B %Y" }}</div>
                     {% endif %}
                     {% if page.title %}
+                      {% unless page.skip %}
                         <h1 id="{{ page.id_value }}">{{ page.title | escape }}</h1>
+                      {% endunless %}
                     {% endif %}
 
                     {{ content }}

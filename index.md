@@ -1,7 +1,7 @@
 ---
 layout: home
 class: home-index
-title: 
+skip: true
 ---
 
 ## My Companies:
