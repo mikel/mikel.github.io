@@ -1,6 +1,7 @@
 ---
 layout: home
 class: home-index
+title: 
 ---
 
 ## My Companies:
