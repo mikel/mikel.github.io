@@ -96,3 +96,43 @@ p.summary {
 p.summary a {
   color: rgb(112, 112, 112);
 }
+
+
+article {
+  font-family: -apple-system, BlinkMacSystemFont, Aptos, Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-heading: var(--font-body);
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  font-family: var(--font-body);
+  font-size: 18.5px;
+  line-height: 1.62;
+  color: #1e1e1e;
+}
+
+article p {
+  margin-bottom: 2.1rem;
+}
+
+h1 {
+  font-size: 3.6rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.12;
+  margin: 3rem 0 2.2rem;
+}
+
+h2 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin: 3.5rem 0 1.4rem;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.18rem;
+  color: #444;
+  border-left: 4px solid #c9aa7c;   /* warm goldish if you want subtle theme */
+  padding-left: 1.8rem;
+  margin: 2.8rem 0;
+}

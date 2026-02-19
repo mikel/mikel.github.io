@@ -9,9 +9,11 @@ skip: true
 * [StoreConnect](https://getstoreconnect.com/)<br><small>truly unified eCommerce, POS and CMS.</small>
 * [MetaPulse](https://metapulse.com/)<br><small>the world's first growth management system..</small>
 * [reinteractive](https://reinteractive.com/)<br><small>Salesforce connected web & movile apps.</small>
+* [deshell](https://deshell.ai/)<br><small>The web and search, in markdown.</small>
 
 ## Posts:
 
+* [You feed your agent that!?](/posts/2026-02-19-you-feed-your-agent-that)
 * [Intellectual Purée](/posts/2025-07-19-intellectual-puree)
 * [The Axioms of Software Development](/posts/2021-03-06-The-Axioms-of-Software-Development)
 * [Remote Work](/posts/2018-06-11-remote-work)
