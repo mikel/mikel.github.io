@@ -9,7 +9,7 @@ skip: true
 * [StoreConnect](https://getstoreconnect.com/)<br><small>truly unified eCommerce, POS and CMS.</small>
 * [MetaPulse](https://metapulse.com/)<br><small>the world's first growth management system..</small>
 * [reinteractive](https://reinteractive.com/)<br><small>Salesforce connected web & movile apps.</small>
-* [deshell](https://deshell.ai/)<br><small>The web and search, in markdown.</small>
+* [Distil](https://distil.net/)<br><small>The internet, distilled: web and search in markdown.</small>
 
 ## Posts:
 
